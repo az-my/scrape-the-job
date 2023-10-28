@@ -1,4 +1,4 @@
-name: Manual Web Scraping
+name: Manual Web Scraping-js
 
 on:
   workflow_dispatch:
