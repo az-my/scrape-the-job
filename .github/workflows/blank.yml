@@ -1,4 +1,4 @@
-name: Manual Web Scraping
+name: Manual Web Scraping-save
 
 on:
   workflow_dispatch:
@@ -28,3 +28,17 @@ jobs:
       - name: Run Web Scraping Script
         run: |
           python ${{ github.event.inputs.script }}
+
+      - name: Generate JSON and CSV Files
+        run: |
+          # Run your script that generates JSON and CSV files
+          python ${{ github.event.inputs.script }}
+        working-directory: .
+
+      - name: Commit and Push JSON and CSV Files
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "<actions@users.noreply.github.com>"
+          git add your-json-file.json your-csv-file.csv
+          git commit -m "Update JSON and CSV files $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/az-my/scrape-the-job.git
