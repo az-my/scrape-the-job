@@ -33,8 +33,8 @@ jobs:
         run: |
           python js.py
           if [ "${{ github.event.inputs.replace-files }}" = "true" ]; then
-            mv -f job_data.json $GITHUB_WORKSPACE/job_data.json
-            mv -f job_data.csv $GITHUB_WORKSPACE/job_data.csv
+            cp -f job_data.json $GITHUB_WORKSPACE/job_data.json
+            cp -f job_data.csv $GITHUB_WORKSPACE/job_data.csv
           fi
 
       - name: Commit and Push Changes
