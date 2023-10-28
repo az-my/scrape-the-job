@@ -1,7 +1,12 @@
-name: Manual Web Scraping-jsv2
+name: Manual Web Scraping
 
 on:
   workflow_dispatch:
+    inputs:
+      script:
+        description: 'Path to the scraping script'
+        required: true
+        default: 'js.py'
 
 jobs:
   scrape:
@@ -14,21 +19,21 @@ jobs:
       - name: Set Up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Replace with your desired Python version
+          python-version: '3.x'
 
       - name: Install Dependencies
         run: |
           pip install requests beautifulsoup4 pandas
-        # Continue with the rest of your workflow...
-        
+        continue
+
       - name: Run Web Scraping Script
         run: |
-          python js.py  # Replace with your script's name
+          python ${{ github.event.inputs.script }}
           
       - name: Commit and Push Changes
         run: |
-          git config user.name "az-my"
-          git config user.email "jkiaceh@gmail.com"
+          git config user.name "GitHub Actions"
+          git config user.email "<actions@users.noreply.github.com>"
           git add .
           git commit -m "Update scraped data $(date -u +'%Y-%m-%d %H:%M:%S')"
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/az-my/scrape-the-job.git
+          git push
