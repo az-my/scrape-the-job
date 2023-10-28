@@ -1,0 +1,30 @@
+name: Daily Web Scraping
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight (UTC)
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out Repository
+        uses: actions/checkout@v2
+
+      - name: Set Up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Replace with your desired Python version
+
+      - name: Run Web Scraping Script
+        run: |
+          python js.py  # Replace with your script's name
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "<actions@users.noreply.github.com>"
+          git add .
+          git commit -m "Update scraped data $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push
