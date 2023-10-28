@@ -7,3 +7,4 @@ What this Script do?
 
 TO DO
 1. Fetch and Diplays those data into frontend / beautiful format for readibility and furher analysis
+2. Add another source (Google Job, LinkedIn, Indeed, Kalibr, Dealls, etc)
