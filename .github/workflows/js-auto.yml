@@ -1,4 +1,4 @@
-name: Manual Web Scraping-js
+name: Manual Web Scraping-updatelib
 
 on:
   workflow_dispatch:
@@ -16,10 +16,15 @@ jobs:
         with:
           python-version: '3.x'  # Replace with your desired Python version
 
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas
+        # Continue with the rest of your workflow...
+        
       - name: Run Web Scraping Script
         run: |
           python js.py  # Replace with your script's name
-
+          
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
