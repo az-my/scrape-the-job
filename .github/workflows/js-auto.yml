@@ -1,8 +1,7 @@
-name: Daily Web Scraping
+name: Manual Web Scraping
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight (UTC)
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -19,7 +18,7 @@ jobs:
 
       - name: Run Web Scraping Script
         run: |
-          python js.py  # Replace with your script's name
+          python your_scraper_script.py  # Replace with your script's name
 
       - name: Commit and Push Changes
         run: |
