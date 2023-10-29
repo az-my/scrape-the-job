@@ -6,7 +6,7 @@
     "company_text": "PT Bangja Inti Ingridien",
     "location_text": "Sidoarjo",
     "datetime": "2023-10-27 04:20:45",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -19,84 +19,12 @@
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4509981",
-    "company_text": "Musim Mas",
-    "location_text": "Medan",
-    "datetime": "2023-10-26 02:08:12",
-    "time_ago": "2d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
     "text": "DATA ANALYST - DKI JAKARTA",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-dki-jakarta-4511667",
     "company_text": "PT Exa Mitra Solusi",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-27 06:56:03",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "DATA ANALYST",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4511840",
-    "company_text": "Meilani Statistical Consulting",
-    "location_text": "Yogyakarta",
-    "datetime": "2023-10-27 08:17:28",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Marketing Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/marketing-data-analyst-4511704",
-    "company_text": "PT Tunas Ridean",
-    "location_text": "Bandar Lampung",
-    "datetime": "2023-10-27 07:16:21",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Analyst Marketing ,Lokasi Kerja : Malajaya, kab Bandung.",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-marketing-lokasi-kerja-%3A-malajaya-kab-bandung.-4511172",
-    "company_text": "PT Multi Star Rukun Abadi (Sharon Bakery)",
-    "location_text": "Bandung",
-    "datetime": "2023-10-27 02:08:46",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "JD-Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/jd-data-analyst-4510384",
-    "company_text": "Third Wave Capital",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-26 06:46:44",
     "time_ago": "2d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Channel Data Analyst Specialist",
-    "href": "https://www.jobstreet.co.id/en/job/channel-data-analyst-specialist-4511585",
-    "company_text": "PT Arya Noble",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-27 05:43:11",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "PROCUREMENT DATA ANALYST",
-    "href": "https://www.jobstreet.co.id/en/job/procurement-data-analyst-4510293",
-    "company_text": "PT Pesta Pora Abadi",
-    "location_text": "Malang",
-    "datetime": "2023-10-26 04:25:23",
-    "time_ago": "2d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Internship - Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/internship-data-analyst-4509299",
-    "company_text": "PZ Cussons Indonesia",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-25 06:45:04",
-    "time_ago": "3d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -109,12 +37,84 @@
   },
   {
     "search_term": "Data-Analyst",
+    "text": "DATA ANALYST",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4511840",
+    "company_text": "Meilani Statistical Consulting",
+    "location_text": "Yogyakarta",
+    "datetime": "2023-10-27 08:17:28",
+    "time_ago": "2d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4509981",
+    "company_text": "Musim Mas",
+    "location_text": "Medan",
+    "datetime": "2023-10-26 02:08:12",
+    "time_ago": "3d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Marketing Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/marketing-data-analyst-4511704",
+    "company_text": "PT Tunas Ridean",
+    "location_text": "Bandar Lampung",
+    "datetime": "2023-10-27 07:16:21",
+    "time_ago": "2d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Analyst Marketing ,Lokasi Kerja : Malajaya, kab Bandung.",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-marketing-lokasi-kerja-%3A-malajaya-kab-bandung.-4511172",
+    "company_text": "PT Multi Star Rukun Abadi (Sharon Bakery)",
+    "location_text": "Bandung",
+    "datetime": "2023-10-27 02:08:46",
+    "time_ago": "2d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "JD-Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/jd-data-analyst-4510384",
+    "company_text": "Third Wave Capital",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-26 06:46:44",
+    "time_ago": "3d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Channel Data Analyst Specialist",
+    "href": "https://www.jobstreet.co.id/en/job/channel-data-analyst-specialist-4511585",
+    "company_text": "PT Arya Noble",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-27 05:43:11",
+    "time_ago": "2d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "PROCUREMENT DATA ANALYST",
+    "href": "https://www.jobstreet.co.id/en/job/procurement-data-analyst-4510293",
+    "company_text": "PT Pesta Pora Abadi",
+    "location_text": "Malang",
+    "datetime": "2023-10-26 04:25:23",
+    "time_ago": "3d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Internship - Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/internship-data-analyst-4509299",
+    "company_text": "PZ Cussons Indonesia",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-25 06:45:04",
+    "time_ago": "4d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
     "text": "Data Analyst",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-4509173",
     "company_text": "PT Suzuki Indomobil Motor",
     "location_text": "Jakarta Timur",
     "datetime": "2023-10-25 04:50:22",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -123,7 +123,7 @@
     "company_text": "PT. FWD Insurance Indonesia ( HO )",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-26 03:32:40",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -132,7 +132,7 @@
     "company_text": "PT Wisnu Ananda Jaya",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-26 04:47:32",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -141,7 +141,7 @@
     "company_text": "PT Administrasi Medika",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-26 02:15:39",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -150,7 +150,7 @@
     "company_text": "PT Kumala Cemerlang Abadi",
     "location_text": "Kalimantan Timur",
     "datetime": "2023-10-25 07:12:48",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -159,42 +159,6 @@
     "company_text": "PT Datacomm Diangraha",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-25 06:35:21",
-    "time_ago": "3d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "DATA ANALIS",
-    "href": "https://www.jobstreet.co.id/en/job/data-analis-4508140",
-    "company_text": "PT Aroma Prima Livindo",
-    "location_text": "Tangerang",
-    "datetime": "2023-10-24 07:16:28",
-    "time_ago": "4d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Engineer (ETL Developer)",
-    "href": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509449",
-    "company_text": "PT Lawencon Internasional",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-25 07:42:58",
-    "time_ago": "3d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Engineer (ETL Developer)",
-    "href": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509514",
-    "company_text": "PT Linov Roket Prestasi",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-25 08:08:36",
-    "time_ago": "3d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Sales Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/sales-data-analyst-4508422",
-    "company_text": "PT. Satya Langgeng Sentosa",
-    "location_text": "Jakarta Barat",
-    "datetime": "2023-10-24 09:14:00",
     "time_ago": "4d ago"
   },
   {
@@ -208,20 +172,38 @@
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Data Analyst (for GetPlus)",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-for-getplus-4507756",
-    "company_text": "PT Merah Cipta Media",
+    "text": "DATA ANALIS",
+    "href": "https://www.jobstreet.co.id/en/job/data-analis-4508140",
+    "company_text": "PT Aroma Prima Livindo",
+    "location_text": "Tangerang",
+    "datetime": "2023-10-24 07:16:28",
+    "time_ago": "5d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Engineer (ETL Developer)",
+    "href": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509449",
+    "company_text": "PT Lawencon Internasional",
     "location_text": "Jakarta Raya",
-    "datetime": "2023-10-24 03:42:03",
+    "datetime": "2023-10-25 07:42:58",
     "time_ago": "4d ago"
   },
   {
     "search_term": "Data-Analyst",
-    "text": "JUNIOR STAFF DATA ANALYST",
-    "href": "https://www.jobstreet.co.id/en/job/junior-staff-data-analyst-4506268",
-    "company_text": "PT NITERRA MOBILITY INDONESIA",
-    "location_text": "Jakarta Timur",
-    "datetime": "2023-10-23 02:49:53",
+    "text": "Data Engineer (ETL Developer)",
+    "href": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509514",
+    "company_text": "PT Linov Roket Prestasi",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-25 08:08:36",
+    "time_ago": "4d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Sales Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/sales-data-analyst-4508422",
+    "company_text": "PT. Satya Langgeng Sentosa",
+    "location_text": "Jakarta Barat",
+    "datetime": "2023-10-24 09:14:00",
     "time_ago": "5d ago"
   },
   {
@@ -235,38 +217,38 @@
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4505296",
-    "company_text": "PT Akulaku Silvrr Indonesia",
+    "text": "Data Analyst (for GetPlus)",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-for-getplus-4507756",
+    "company_text": "PT Merah Cipta Media",
     "location_text": "Surabaya",
-    "datetime": "2023-10-20 07:23:32",
-    "time_ago": "8d ago"
+    "datetime": "2023-10-24 03:42:03",
+    "time_ago": "5d ago"
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Event Coordinator",
-    "href": "https://www.jobstreet.co.id/en/job/event-coordinator-4505084",
-    "company_text": "PT Harmoni Dinamik Indonesia",
-    "location_text": "Jakarta Pusat",
-    "datetime": "2023-10-20 04:36:51",
-    "time_ago": "8d ago"
+    "text": "JUNIOR STAFF DATA ANALYST",
+    "href": "https://www.jobstreet.co.id/en/job/junior-staff-data-analyst-4506268",
+    "company_text": "PT NITERRA MOBILITY INDONESIA",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-23 02:49:53",
+    "time_ago": "6d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Data Analyst (Procurement)",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-procurement-4504630",
     "company_text": "PT Union Sampoerna Triputra Persada",
-    "location_text": "Jakarta Pusat",
+    "location_text": "Jakarta Timur",
     "datetime": "2023-10-19 10:58:39",
     "time_ago": "9d ago"
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Data Analyst Officer",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-officer-4504484",
-    "company_text": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
+    "text": "Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4505296",
+    "company_text": "PT Akulaku Silvrr Indonesia",
     "location_text": "Jakarta Raya",
-    "datetime": "2023-10-19 09:24:12",
+    "datetime": "2023-10-20 07:23:32",
     "time_ago": "9d ago"
   },
   {
@@ -274,9 +256,27 @@
     "text": "Instruktur",
     "href": "https://www.jobstreet.co.id/en/job/instruktur-4504552",
     "company_text": "Screenesia",
-    "location_text": "Makassar",
+    "location_text": "Jakarta Pusat",
     "datetime": "2023-10-19 11:18:19",
     "time_ago": "9d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Event Coordinator",
+    "href": "https://www.jobstreet.co.id/en/job/event-coordinator-4505084",
+    "company_text": "PT Harmoni Dinamik Indonesia",
+    "location_text": "Makassar",
+    "datetime": "2023-10-20 04:36:51",
+    "time_ago": "9d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Analyst Officer",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-officer-4504484",
+    "company_text": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-19 09:24:12",
+    "time_ago": "10d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -285,7 +285,7 @@
     "company_text": "PT. Sejahtera Khatulistiwa Perkasa",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-18 09:06:50",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -294,24 +294,6 @@
     "company_text": "PT Asuransi Umum Bumiputera Muda 1967",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-18 03:40:30",
-    "time_ago": "10d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Analyst Bali",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-bali-4501838",
-    "company_text": "PT Adi Surya Sempurna",
-    "location_text": "Kuta",
-    "datetime": "2023-10-17 08:37:19",
-    "time_ago": "11d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Retail Data Analyst Manager",
-    "href": "https://www.jobstreet.co.id/en/job/retail-data-analyst-manager-4501451",
-    "company_text": "PT Duta Intiguna Yasa (MR DIY)",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-17 05:49:51",
     "time_ago": "11d ago"
   },
   {
@@ -325,12 +307,30 @@
   },
   {
     "search_term": "Data-Analyst",
+    "text": "Data Analyst Bali",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-bali-4501838",
+    "company_text": "PT Adi Surya Sempurna",
+    "location_text": "Kuta",
+    "datetime": "2023-10-17 08:37:19",
+    "time_ago": "12d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Retail Data Analyst Manager",
+    "href": "https://www.jobstreet.co.id/en/job/retail-data-analyst-manager-4501451",
+    "company_text": "PT Duta Intiguna Yasa (MR DIY)",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-17 05:49:51",
+    "time_ago": "12d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
     "text": "Data Analyst",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-4500199",
     "company_text": "PT Eka Bogainti",
     "location_text": "Jakarta Timur",
     "datetime": "2023-10-16 07:41:50",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -339,7 +339,7 @@
     "company_text": "PT. GAWE BECIK NADHAH ANUGRAH",
     "location_text": "Yogyakarta",
     "datetime": "2023-10-16 04:55:07",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -348,7 +348,7 @@
     "company_text": "Ann's Bakehouse",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-24 04:13:09",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -357,7 +357,7 @@
     "company_text": "PT Griya Miesejati (Bakmi GM)",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-27 03:33:40",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -366,7 +366,7 @@
     "company_text": "PT Ewaysindo Makmur (Jakarta)",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-27 08:06:08",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -375,7 +375,7 @@
     "company_text": "MODENA INDONESIA",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-26 06:55:40",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -384,7 +384,7 @@
     "company_text": "PT Matahari Department Store Tbk",
     "location_text": "Tangerang",
     "datetime": "2023-10-25 01:53:35",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -393,7 +393,7 @@
     "company_text": "PT Serba Mulia Auto",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-24 09:11:20",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -406,48 +406,12 @@
   },
   {
     "search_term": "Data-Analyst",
-    "text": "SALES DATA  ANALYST",
-    "href": "https://www.jobstreet.co.id/en/job/sales-data-analyst-4494028",
-    "company_text": "PT Asia Health Energi Beverages",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-10 03:55:49",
-    "time_ago": "18d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "DATA ANALYST STAFF",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-staff-4495723",
-    "company_text": "PT Bussan Auto Finance (BAF)",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-11 06:43:56",
-    "time_ago": "17d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
     "text": "Digital Data Analyst Supervisor",
     "href": "https://www.jobstreet.co.id/en/job/digital-data-analyst-supervisor-4496237",
     "company_text": "PT Santos Jaya Abadi",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-11 09:42:06",
     "time_ago": "17d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4495138",
-    "company_text": "PT Panca Budi Pratama",
-    "location_text": "Banten",
-    "datetime": "2023-10-11 02:12:39",
-    "time_ago": "17d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Junior Instruktur Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/junior-instruktur-data-analyst-1037213568",
-    "company_text": "PT Inixindo Amiete Mandiri",
-    "location_text": "Bandung",
-    "datetime": "2023-10-17 16:00:00",
-    "time_ago": "11d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -460,11 +424,38 @@
   },
   {
     "search_term": "Data-Analyst",
+    "text": "Junior Instruktur Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/junior-instruktur-data-analyst-1037213568",
+    "company_text": "PT Inixindo Amiete Mandiri",
+    "location_text": "Bandung",
+    "datetime": "2023-10-17 16:00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "DATA ANALYST STAFF",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-staff-4495723",
+    "company_text": "PT Bussan Auto Finance (BAF)",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-11 06:43:56",
+    "time_ago": "18d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "SALES DATA  ANALYST",
+    "href": "https://www.jobstreet.co.id/en/job/sales-data-analyst-4494028",
+    "company_text": "PT Asia Health Energi Beverages",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-10 03:55:49",
+    "time_ago": "19d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
     "text": "Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4494320",
-    "company_text": "Yayasan Bina Nusantara",
-    "location_text": "Jakarta Barat",
-    "datetime": "2023-10-10 06:33:48",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4495138",
+    "company_text": "PT Panca Budi Pratama",
+    "location_text": "Banten",
+    "datetime": "2023-10-11 02:12:39",
     "time_ago": "18d ago"
   },
   {
@@ -478,12 +469,21 @@
   },
   {
     "search_term": "Data-Analyst",
+    "text": "Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4494320",
+    "company_text": "Yayasan Bina Nusantara",
+    "location_text": "Jakarta Barat",
+    "datetime": "2023-10-10 06:33:48",
+    "time_ago": "19d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
     "text": "Team Leader Data Analyst (Mandarin Speaker - Area Solo)",
     "href": "https://www.jobstreet.co.id/en/job/team-leader-data-analyst-mandarin-speaker-area-solo-4492459",
     "company_text": "PT Global Jet Express",
     "location_text": "Surakarta",
     "datetime": "2023-10-09 03:16:23",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -492,7 +492,7 @@
     "company_text": "PT Penguin Indonesia",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-09 09:25:29",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -501,7 +501,7 @@
     "company_text": "PT Aditya Sarana Graha",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-09 04:58:48",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -510,7 +510,7 @@
     "company_text": "PT Solusi Energy Nusantara (JAKARTA)",
     "location_text": "Pekanbaru",
     "datetime": "2023-10-18 07:52:52",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -519,7 +519,7 @@
     "company_text": "PT Nusantara Sejahtera Raya Tbk (Cinema XXI)",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-18 05:03:24",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -528,7 +528,7 @@
     "company_text": "Erajaya Group",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-06 06:56:44",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -537,7 +537,7 @@
     "company_text": "PT. Hebe Beauty Style",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-06 04:05:45",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -546,7 +546,7 @@
     "company_text": "PT Global Jet Cargo",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-06 07:05:31",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -555,61 +555,61 @@
     "company_text": "PT Steel Pipe Industry of Indonesia Tbk",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-06 09:33:30",
-    "time_ago": "22d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "DATA ANALIS",
-    "href": "https://www.jobstreet.co.id/en/job/data-analis-4500915",
-    "company_text": "PT Tera Achiever",
-    "location_text": "Jakarta Utara",
-    "datetime": "2023-10-17 02:15:09",
-    "time_ago": "11d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Quality Customer Service - Data Analyst Intern",
-    "href": "https://www.jobstreet.co.id/en/job/quality-customer-service-data-analyst-intern-4489772",
-    "company_text": "Danone Indonesia",
-    "location_text": "Jawa Tengah",
-    "datetime": "2023-10-05 05:40:27",
-    "time_ago": "23d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Senior Business Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/senior-business-analyst-4499676",
-    "company_text": "PT.Mahakam Beta Farma",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-16 03:48:55",
-    "time_ago": "12d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4489860",
-    "company_text": "PT Akulaku Silvrr Indonesia",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-05 06:21:14",
     "time_ago": "23d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Collection Data Analyst (MIS)",
     "href": "https://www.jobstreet.co.id/en/job/collection-data-analyst-mis-4490434",
-    "company_text": "CV Basa Mandiri Prima",
-    "location_text": "Jakarta Timur",
+    "company_text": "PT Akulaku Silvrr Indonesia",
+    "location_text": "Jakarta Raya",
     "datetime": "2023-10-05 10:26:24",
     "time_ago": "23d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Senior Business Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/senior-business-analyst-4499676",
+    "company_text": "PT Tera Achiever",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-16 03:48:55",
+    "time_ago": "13d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "DATA ANALIS",
+    "href": "https://www.jobstreet.co.id/en/job/data-analis-4500915",
+    "company_text": "Danone Indonesia",
+    "location_text": "Jakarta Utara",
+    "datetime": "2023-10-17 02:15:09",
+    "time_ago": "12d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Quality Customer Service - Data Analyst Intern",
+    "href": "https://www.jobstreet.co.id/en/job/quality-customer-service-data-analyst-intern-4489772",
+    "company_text": "PT.Mahakam Beta Farma",
+    "location_text": "Jawa Tengah",
+    "datetime": "2023-10-05 05:40:27",
+    "time_ago": "24d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-4489860",
+    "company_text": "CV Basa Mandiri Prima",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-05 06:21:14",
+    "time_ago": "24d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Data Analyst",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-4489372",
     "company_text": "PT. Fore Kopi Indonesia",
-    "location_text": "Jakarta Raya",
+    "location_text": "Jakarta Timur",
     "datetime": "2023-10-05 02:49:04",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -618,7 +618,7 @@
     "company_text": "Gokomodo",
     "location_text": "Jawa Tengah",
     "datetime": "2023-10-04 04:22:29",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -627,43 +627,43 @@
     "company_text": "PT KB Finansia Multi Finance",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-03 02:45:52",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Credit Scoring & Data Analyst",
     "href": "https://www.jobstreet.co.id/en/job/credit-scoring-data-analyst-4486405",
-    "company_text": "PT Bumitama Gunajaya Agro",
+    "company_text": "PT mitra muda sejati",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-03 01:54:38",
-    "time_ago": "25d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Statistical Data Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/statistical-data-analyst-4486370",
-    "company_text": "PT mitra muda sejati",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-03 01:37:23",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Digital Marketing",
     "href": "https://www.jobstreet.co.id/en/job/digital-marketing-1037219625",
-    "company_text": "PwC Indonesia",
-    "location_text": "Jakarta Selatan",
+    "company_text": "PT Bumitama Gunajaya Agro",
+    "location_text": "Jakarta Raya",
     "datetime": "2023-10-18 16:00:00",
     "time_ago": "10d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Statistical Data Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/statistical-data-analyst-4486370",
+    "company_text": "PwC Indonesia",
+    "location_text": "Jawa Timur",
+    "datetime": "2023-10-03 01:37:23",
+    "time_ago": "26d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Data Analyst Staff",
     "href": "https://www.jobstreet.co.id/en/job/data-analyst-staff-4485454",
     "company_text": "RGF HR Agent Indonesia",
-    "location_text": "Jawa Timur",
+    "location_text": "Jakarta Selatan",
     "datetime": "2023-10-02 04:59:34",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -672,70 +672,70 @@
     "company_text": "PT Sinde Budi Sentosa",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-13 04:50:50",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Warehouse Admin",
     "href": "https://www.jobstreet.co.id/en/job/warehouse-admin-4497534",
-    "company_text": "PT Mega Niaga Sejahtera",
+    "company_text": "PT Indo Partners Plantation Services",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-12 09:33:37",
-    "time_ago": "16d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "IT Business Analyst",
-    "href": "https://www.jobstreet.co.id/en/job/it-business-analyst-4496538",
-    "company_text": "PT. Sardana IndahBerlian Motor",
-    "location_text": "Bekasi",
-    "datetime": "2023-10-12 01:31:25",
-    "time_ago": "16d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Data Analyst (Medan)",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-medan-4483878",
-    "company_text": "PT Indo Partners Plantation Services",
-    "location_text": "Bogor",
-    "datetime": "2023-09-29 06:31:56",
-    "time_ago": "29d ago"
+    "time_ago": "17d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Senior HR Analyst",
     "href": "https://www.jobstreet.co.id/en/job/senior-hr-analyst-4493456",
-    "company_text": "PT Mandiri Tunas Finance",
-    "location_text": "Medan",
+    "company_text": "PT Mega Niaga Sejahtera",
+    "location_text": "Bekasi",
     "datetime": "2023-10-09 10:20:25",
     "time_ago": "19d ago"
   },
   {
     "search_term": "Data-Analyst",
-    "text": "Reconcile E-Commerce Staff",
-    "href": "https://www.jobstreet.co.id/en/job/reconcile-e-commerce-staff-4494667",
+    "text": "IT Business Analyst",
+    "href": "https://www.jobstreet.co.id/en/job/it-business-analyst-4496538",
     "company_text": "PT Adi Surya Sempurna",
     "location_text": "Jakarta Pusat",
-    "datetime": "2023-10-10 08:46:28",
-    "time_ago": "18d ago"
+    "datetime": "2023-10-12 01:31:25",
+    "time_ago": "17d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Sales Data Analyst Area Lombok",
     "href": "https://www.jobstreet.co.id/en/job/sales-data-analyst-area-lombok-1037128315",
-    "company_text": "Yayasan Bina Nusantara",
-    "location_text": "Jakarta Raya",
+    "company_text": "PT. Sardana IndahBerlian Motor",
+    "location_text": "Bogor",
     "datetime": "2023-10-05 16:00:00",
     "time_ago": "23d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Data Analyst (Medan)",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-medan-4483878",
+    "company_text": "PT Mandiri Tunas Finance",
+    "location_text": "Nusa Tenggara Barat",
+    "datetime": "2023-09-29 06:31:56",
+    "time_ago": "30d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "Reconcile E-Commerce Staff",
+    "href": "https://www.jobstreet.co.id/en/job/reconcile-e-commerce-staff-4494667",
+    "company_text": "Yayasan Bina Nusantara",
+    "location_text": "Medan",
+    "datetime": "2023-10-10 08:46:28",
+    "time_ago": "19d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Senior Data Engineer",
     "href": "https://www.jobstreet.co.id/en/job/senior-data-engineer-4494314",
     "company_text": "PT Merah Cipta Media",
-    "location_text": "Nusa Tenggara Barat",
+    "location_text": "Jakarta Raya",
     "datetime": "2023-10-10 06:31:28",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -744,7 +744,7 @@
     "company_text": "PT Intim Harmonis Foods Industri (INAFOOD)",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-10 09:14:52",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -753,7 +753,7 @@
     "company_text": "CV Setia Agung Pratama",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-09 02:43:06",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -762,61 +762,52 @@
     "company_text": "BYD Indonesia",
     "location_text": "Pasuruan",
     "datetime": "2023-10-07 04:24:59",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Marketing & Event Manager",
     "href": "https://www.jobstreet.co.id/en/job/marketing-event-manager-4486823",
-    "company_text": "PT Cipta Kreasisandang Mandiri (OSELLA)",
+    "company_text": "CV Vio Indonesia",
     "location_text": "Bandung",
     "datetime": "2023-10-03 04:40:57",
+    "time_ago": "26d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
+    "text": "DATA ANALYST",
+    "href": "https://www.jobstreet.co.id/en/job/data-analyst-1037106253",
+    "company_text": "PT Cipta Kreasisandang Mandiri (OSELLA)",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-03 16:00:00",
     "time_ago": "25d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Corporate Business Analyst",
     "href": "https://www.jobstreet.co.id/en/job/corporate-business-analyst-4491650",
-    "company_text": "PT Sirius Surya Sentosa ( Jakarta )",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-06 10:33:08",
-    "time_ago": "22d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Marketing Budget and Report SPV",
-    "href": "https://www.jobstreet.co.id/en/job/marketing-budget-and-report-spv-4491278",
     "company_text": "PT Ewaysindo Makmur (Jakarta)",
-    "location_text": "Jakarta Utara",
-    "datetime": "2023-10-06 07:38:03",
+    "location_text": "Surabaya",
+    "datetime": "2023-10-06 10:33:08",
     "time_ago": "22d ago"
   },
   {
     "search_term": "Data-Analyst",
     "text": "Data Analytics",
     "href": "https://www.jobstreet.co.id/en/job/data-analytics-4491571",
-    "company_text": "MGE Content and Commerce Partner",
-    "location_text": "Tangerang",
+    "company_text": "PT Sirius Surya Sentosa ( Jakarta )",
+    "location_text": "Jakarta Utara",
     "datetime": "2023-10-06 09:53:37",
     "time_ago": "22d ago"
   },
   {
     "search_term": "Data-Analyst",
-    "text": "DATA ANALYST",
-    "href": "https://www.jobstreet.co.id/en/job/data-analyst-1037106253",
-    "company_text": "CV Vio Indonesia",
-    "location_text": "Surabaya",
-    "datetime": "2023-10-03 16:00:00",
-    "time_ago": "25d ago"
-  },
-  {
-    "search_term": "Data-Analyst",
-    "text": "Digital Marketing",
-    "href": "https://www.jobstreet.co.id/en/job/digital-marketing-4490325",
-    "company_text": "PT Weefer Indonesia",
-    "location_text": "Jawa Timur",
-    "datetime": "2023-10-05 09:33:27",
-    "time_ago": "23d ago"
+    "text": "Influencer Partner Management \uff08KOL Specilist\uff09",
+    "href": "https://www.jobstreet.co.id/en/job/influencer-partner-management-%EF%BC%88kol-specilist%EF%BC%89-4486002",
+    "company_text": "MGE Content and Commerce Partner",
+    "location_text": "Jakarta Raya",
+    "datetime": "2023-10-02 09:05:04",
+    "time_ago": "27d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -829,12 +820,21 @@
   },
   {
     "search_term": "Data-Analyst",
+    "text": "Digital Marketing",
+    "href": "https://www.jobstreet.co.id/en/job/digital-marketing-4490325",
+    "company_text": "PT Weefer Indonesia",
+    "location_text": "Jawa Timur",
+    "datetime": "2023-10-05 09:33:27",
+    "time_ago": "24d ago"
+  },
+  {
+    "search_term": "Data-Analyst",
     "text": "Social Media Manager",
     "href": "https://www.jobstreet.co.id/en/job/social-media-manager-4489671",
     "company_text": "PT. Hebe Beauty Style",
     "location_text": "Tangerang",
     "datetime": "2023-10-05 04:47:45",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -843,7 +843,7 @@
     "company_text": "Ofi Indonesia",
     "location_text": "Medan",
     "datetime": "2023-10-04 09:39:40",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -852,7 +852,7 @@
     "company_text": "PT Maruni Daya Sakti",
     "location_text": "Jakarta Barat",
     "datetime": "2023-10-03 09:39:52",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -861,7 +861,7 @@
     "company_text": "PT Sejahtera Sama Kita",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-02 06:52:16",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "search_term": "Data-Analyst",
@@ -1077,7 +1077,7 @@
     "company_text": "PT Datacomm Diangraha",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-25 06:35:21",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data-Analis",
@@ -1086,7 +1086,7 @@
     "company_text": "PT Aroma Prima Livindo",
     "location_text": "Tangerang",
     "datetime": "2023-10-24 07:16:28",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "search_term": "Data-Analis",
@@ -1095,7 +1095,7 @@
     "company_text": "PT Persada Inti Utama (Jakarta)",
     "location_text": "Bekasi",
     "datetime": "2023-10-23 08:42:15",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "search_term": "Data-Analis",
@@ -1104,7 +1104,7 @@
     "company_text": "PT Tera Achiever",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-17 02:15:09",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "search_term": "Data-Analis",
@@ -1122,7 +1122,7 @@
     "company_text": "PT Asuransi Umum Bumiputera Muda 1967",
     "location_text": "Gresik",
     "datetime": "2023-10-18 03:40:30",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data-Analis",
@@ -1131,7 +1131,7 @@
     "company_text": "FamilyMart Indonesia",
     "location_text": "Surabaya",
     "datetime": "2023-10-17 09:26:59",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1140,7 +1140,7 @@
     "company_text": "PT Serasi Autoraya (Member of Astra)",
     "location_text": "Jakarta Utara",
     "datetime": "2023-10-25 02:45:32",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1158,7 +1158,7 @@
     "company_text": "Ann's Bakehouse",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-24 04:13:09",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1167,7 +1167,7 @@
     "company_text": "PT Lawencon Internasional",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-25 07:42:58",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1176,7 +1176,7 @@
     "company_text": "PT Linov Roket Prestasi",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-25 08:08:36",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1185,16 +1185,7 @@
     "company_text": "PT Tera Achiever",
     "location_text": "Jawa Tengah",
     "datetime": "2023-10-23 08:57:19",
-    "time_ago": "5d ago"
-  },
-  {
-    "search_term": "Data Engineer",
-    "text": "ETL Data Engineer",
-    "href": "https://www.jobstreet.co.id/en/job/etl-data-engineer-4506533",
-    "company_text": "PT Smartec Teknologi Indonesia",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-23 04:32:07",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1203,7 +1194,16 @@
     "company_text": "PT. Fortech Indotama",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-26 07:59:10",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
+  },
+  {
+    "search_term": "Data Engineer",
+    "text": "ETL Data Engineer",
+    "href": "https://www.jobstreet.co.id/en/job/etl-data-engineer-4506533",
+    "company_text": "PT Smartec Teknologi Indonesia",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-23 04:32:07",
+    "time_ago": "6d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1212,7 +1212,7 @@
     "company_text": "PT Mitra Informatika",
     "location_text": "Surabaya",
     "datetime": "2023-10-23 01:18:43",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1230,7 +1230,7 @@
     "company_text": "PT Intrias Mandiri Sejati",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-19 03:40:24",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1239,7 +1239,7 @@
     "company_text": "REKRUTER INFINIT CAKRAWALA",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-19 04:53:59",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1248,7 +1248,7 @@
     "company_text": "PT Asuransi MSIG Indonesia",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-18 06:45:15",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1257,7 +1257,7 @@
     "company_text": "PT Fastrata Buana",
     "location_text": "Jakarta Timur",
     "datetime": "2023-10-18 07:19:28",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1266,7 +1266,7 @@
     "company_text": "PT Mitra Solusi Telematika",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-17 02:36:16",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1275,7 +1275,7 @@
     "company_text": "PT Zona Edukasi Nusantara (Zenius Education)",
     "location_text": "Jakarta Selatan",
     "datetime": "2023-10-13 04:52:08",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1284,16 +1284,7 @@
     "company_text": "PT Emos Global Digital",
     "location_text": "Jakarta Timur",
     "datetime": "2023-10-27 03:04:12",
-    "time_ago": "1d ago"
-  },
-  {
-    "search_term": "Data Engineer",
-    "text": "Big Data Engineer IT",
-    "href": "https://www.jobstreet.co.id/en/job/big-data-engineer-it-4495866",
-    "company_text": "PT. Semesta Arus Teknologi",
-    "location_text": "Jakarta Selatan",
-    "datetime": "2023-10-11 07:30:26",
-    "time_ago": "17d ago"
+    "time_ago": "2d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1302,7 +1293,16 @@
     "company_text": "PT Nomura Research Institute Indonesia",
     "location_text": "Jakarta Raya",
     "datetime": "2023-10-11 06:53:09",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
+  },
+  {
+    "search_term": "Data Engineer",
+    "text": "Big Data Engineer IT",
+    "href": "https://www.jobstreet.co.id/en/job/big-data-engineer-it-4495866",
+    "company_text": "PT. Semesta Arus Teknologi",
+    "location_text": "Jakarta Selatan",
+    "datetime": "2023-10-11 07:30:26",
+    "time_ago": "18d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1311,16 +1311,7 @@
     "company_text": "PT Eka Mas Republik",
     "location_text": "Tangerang",
     "datetime": "2023-10-10 04:02:40",
-    "time_ago": "18d ago"
-  },
-  {
-    "search_term": "Data Engineer",
-    "text": "Senior Data Engineer",
-    "href": "https://www.jobstreet.co.id/en/job/senior-data-engineer-4494314",
-    "company_text": "Yayasan Bina Nusantara",
-    "location_text": "Jakarta Barat",
-    "datetime": "2023-10-10 06:31:28",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "search_term": "Data Engineer",
@@ -1329,24 +1320,33 @@
     "company_text": "PT I Like Gym Indonesia",
     "location_text": "Jakarta Pusat",
     "datetime": "2023-10-09 08:25:06",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "search_term": "Data Engineer",
-    "text": "Logistics Data Engineer (English Speaker)",
-    "href": "https://www.jobstreet.co.id/en/job/logistics-data-engineer-english-speaker-4489599",
-    "company_text": "PT.PUNINAR ANJI NYK LOGISTICS INDONESIA",
-    "location_text": "Jakarta Raya",
-    "datetime": "2023-10-05 04:20:02",
-    "time_ago": "23d ago"
+    "text": "Senior Data Engineer",
+    "href": "https://www.jobstreet.co.id/en/job/senior-data-engineer-4494314",
+    "company_text": "Yayasan Bina Nusantara",
+    "location_text": "Jakarta Barat",
+    "datetime": "2023-10-10 06:31:28",
+    "time_ago": "19d ago"
   },
   {
     "search_term": "Data Engineer",
     "text": "Data Engineer",
     "href": "https://www.jobstreet.co.id/en/job/data-engineer-4489106",
     "company_text": "PT Andalan Anak Bangsa (KPSG)",
-    "location_text": "Bekasi",
+    "location_text": "Jakarta Raya",
     "datetime": "2023-10-04 12:32:06",
+    "time_ago": "24d ago"
+  },
+  {
+    "search_term": "Data Engineer",
+    "text": "Logistics Data Engineer (English Speaker)",
+    "href": "https://www.jobstreet.co.id/en/job/logistics-data-engineer-english-speaker-4489599",
+    "company_text": "PT.PUNINAR ANJI NYK LOGISTICS INDONESIA",
+    "location_text": "Tangerang",
+    "datetime": "2023-10-05 04:20:02",
     "time_ago": "24d ago"
   },
   {
@@ -1356,14 +1356,14 @@
     "company_text": "PT Lifelong Learning",
     "location_text": "Jakarta Raya",
     "datetime": "2023-09-29 03:44:05",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "search_term": "Data Engineer",
     "text": "Data Engineer (Middle-Senior",
     "href": "https://www.jobstreet.co.id/en/job/data-engineer-middle-senior-4484353",
     "company_text": "PT All Data International",
-    "location_text": "Tangerang",
+    "location_text": "Bekasi",
     "datetime": "2023-09-29 10:14:09",
     "time_ago": "29d ago"
   },
