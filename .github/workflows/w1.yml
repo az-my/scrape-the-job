@@ -1,7 +1,8 @@
 name: Manual Web Scraping
 
 on:
-  workflow_dispatch
+  schedule:
+    - cron: '1 0 * * *'  # This schedules the workflow at 00:01 AM (midnight)
 
 jobs:
   scrape:
