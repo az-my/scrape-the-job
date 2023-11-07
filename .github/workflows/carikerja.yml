@@ -1,4 +1,4 @@
-name: Run JobStreet Scraper
+name: Run Carikerja.py
 
 on:
   workflow_dispatch: # This event allows manual triggering
