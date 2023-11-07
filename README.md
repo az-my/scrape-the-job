@@ -8,6 +8,16 @@ Limitations:
 - 🕰️ Runs at a specific time daily.
 - 🌏 Only for jobs in Indonesia.
 - 🪓 Relies on keywords, might miss close matches.
-- 💼 Quality depends on job post accuracy.
+-  The Keyword
+    "Data-Analyst",
+    "Data-Analis",
+    "Data-Engineer",
+    "ETL-Developer",
+    "Power-BI-Developer",
+    "Business-Intelligence",
+    "Business-Intelligence Analyst",
+    "Business-Analyst",
+    "Bisnis-Analis",
+    "BI Analyst",
+    "BI-Developer",
 
-Simplifying the script's essence and its constraints with a Gen-Z flair.
