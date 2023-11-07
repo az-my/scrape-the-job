@@ -1,12 +1,9 @@
-What the Script Does:
-The script is designed to accomplish the following tasks:
-1.  Data Extraction: It scrapes job postings from the jobstreet.co.id website for the roles of Data Analyst and Data Engineer.
-2.  Data Storage: The extracted job data is stored in two files, job_data.csv and job_data.json. These files are organized within a directory named "Data."
-3.  Automation: The script is scheduled to run automatically at midnight.
+This script performs the following actions:
 
-To-Do List:
-In the future, there are several potential improvements and expansions for this project:
-1.  Data Presentation: Develop a frontend or a user-friendly interface to display the extracted job data in a visually appealing and easy-to-read format. This can enhance the data's readability and enable further analysis.
-2.  Additional Data Sources: Consider extending the script's functionality to scrape job postings from other job search platforms such as Google Jobs, LinkedIn, Indeed, Kalibrr, Dealls, and more. Expanding data sources can provide a broader perspective on job opportunities.
+1. It first fetches job postings from a well-known job portal based on a list of predefined search terms or keywords. These search terms include job titles like "Data-Analyst," "Data-Engineer," "ETL-Developer," "Power-BI-Developer," "Business-Intelligence," "Business-Intelligence Analyst," "Business-Analyst," "Bisnis-Analis," "BI Analyst," and "BI-Developer."
 
-By implementing these enhancements, the project can become a valuable tool for job seekers and data analysts seeking relevant job opportunities.
+2. Next, it compares the job role name for each job posting to see if it matches any of the keywords from the list. If there's a match, it flags the posting as a "Yes."
+
+3. Finally, the script filters out and retains only the job postings that have been flagged as a "Yes," indicating that the job role name matches one of the specified keywords.
+
+In summary, the script fetches job postings based on specific search terms, checks if the job role name matches any of these terms, and retains only the postings that have a match, helping to identify relevant job postings for further processing or analysis.
