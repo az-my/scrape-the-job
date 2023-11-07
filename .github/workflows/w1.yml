@@ -2,7 +2,7 @@ name: Manual Web Scraping
 
 on:
   schedule:
-    - cron: '1 7 * * *'  # This schedules the workflow at 00:01 AM (midnight)
+    - cron: '1 17 * * *'  # This schedules the workflow at 00:01 AM (midnight)
 
 jobs:
   scrape:
