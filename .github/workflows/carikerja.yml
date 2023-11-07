@@ -1,0 +1,50 @@
+name: Run JobStreet Scraper
+
+on:
+  workflow_dispatch: # This event allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x  # Replace with the appropriate Python version
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install beautifulsoup4
+
+    - name: Run JobStreet Scraper
+      run: |
+        python your_script.py  # Replace with the actual name of your Python script
+
+    - name: Save extracted data
+      run: |
+        git config user.name "Your Name"
+        git config user.email "your.email@example.com"
+        git add extracted_data.json
+        git commit -m "Update extracted data"
+        git push
+
+    - name: Save transformed data
+      run: |
+        git config user.name "Your Name"
+        git config user.email "your.email@example.com"
+        git add transformed_data.json
+        git commit -m "Update transformed data"
+        git push
+
+    - name: Save filtered data
+      run: |
+        git config user.name "Your Name"
+        git config user.email "your.email@example.com"
+        git add filtered_data.json
+        git commit -m "Update filtered data"
+        git push
