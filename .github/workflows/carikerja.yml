@@ -1,7 +1,8 @@
 name: Run Carikerja.py
 
 on:
-  workflow_dispatch: # This event allows manual triggering
+  schedule:
+    - cron: "1 17 * * *"
 
 jobs:
   build:
