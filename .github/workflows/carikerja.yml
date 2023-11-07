@@ -21,9 +21,9 @@ jobs:
         pip install requests
         pip install beautifulsoup4
 
-    - name: Run JobStreet Scraper
+    - name: Run  Cari Kerja
       run: |
-        python your_script.py  # Replace with the actual name of your Python script
+        python carikerja.py  # Replace with the actual name of your Python script
 
     - name: Save extracted data
       run: |
