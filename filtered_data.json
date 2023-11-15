@@ -1,13 +1,93 @@
 [
   {
     "keyword": "Data-Analyst",
+    "job_role": "Data Analyst Specialist",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-specialist-4529846",
+    "company_name": "PT Mega Finance",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "15-Nov-2023 08:54:34",
+    "duration": 0
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "MINING DATA ENGINEER & ANALYST",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/mining-data-engineer-analyst-4529803",
+    "company_name": "PT Sebuku Iron Lateritic Ores",
+    "company_location": "Kotabaru",
+    "job_posted_date": "15-Nov-2023 08:31:32",
+    "duration": 0
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Claim Analyst Data Entry (Semarang)",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/claim-analyst-data-entry-semarang-4529731",
+    "company_name": "PT Reycom Document Solusi",
+    "company_location": "Semarang",
+    "job_posted_date": "15-Nov-2023 07:56:08",
+    "duration": 0
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Data Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-4528259",
+    "company_name": "PT ACCENTUATES",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "14-Nov-2023 05:27:02",
+    "duration": 1
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Regional Data Analyst & Monitoring",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/regional-data-analyst-monitoring-4527954",
+    "company_name": "Erajaya Group",
+    "company_location": "Jakarta Barat",
+    "job_posted_date": "14-Nov-2023 03:22:21",
+    "duration": 1
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Regional Data Analyst & Monitoring",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/regional-data-analyst-monitoring-4527941",
+    "company_name": "PT JACCS Mitra Pinasthika Mustika Finance Indonesia",
+    "company_location": "Jakarta Barat",
+    "job_posted_date": "14-Nov-2023 03:21:41",
+    "duration": 1
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Business & Data Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-data-analyst-1037388887",
+    "company_name": "Jejaring Tiga Artha (zicare.id)",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "13-Nov-2023 16:00:00",
+    "duration": 2
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Data Analyst Staff",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-staff-1037389200",
+    "company_name": "PT Hartadinata Abadi, Tbk.",
+    "company_location": "Bandung",
+    "job_posted_date": "13-Nov-2023 16:00:00",
+    "duration": 2
+  },
+  {
+    "keyword": "Data-Analyst",
     "job_role": "Data Analyst & Administration Supervisor",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-administration-supervisor-4527493",
     "company_name": "PT Santos Jaya Abadi",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "13-Nov-2023 10:09:40",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Analyst",
@@ -17,7 +97,7 @@
     "company_name": "PT Giordano Indonesia",
     "company_location": "Jakarta Utara",
     "job_posted_date": "13-Nov-2023 08:29:20",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Analyst",
@@ -27,7 +107,7 @@
     "company_name": "PT Surya Timur Sakti Jatim [Distributor Motor Yamaha : Jatim,Kalimantan,NTB,NTT]",
     "company_location": "Surabaya",
     "job_posted_date": "13-Nov-2023 08:01:43",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Analyst",
@@ -37,7 +117,7 @@
     "company_name": "Arkademi",
     "company_location": "Banten",
     "job_posted_date": "13-Nov-2023 04:30:02",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Analyst",
@@ -47,7 +127,7 @@
     "company_name": "Gokomodo",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "13-Nov-2023 02:26:20",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Analyst",
@@ -57,7 +137,17 @@
     "company_name": "PT Sentralsari Primasentosa",
     "company_location": "Sidoarjo",
     "job_posted_date": "13-Nov-2023 02:09:19",
-    "duration": 0
+    "duration": 2
+  },
+  {
+    "keyword": "Data-Analyst",
+    "job_role": "Data Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-1037382300",
+    "company_name": "Gokomodo",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "12-Nov-2023 16:00:00",
+    "duration": 3
   },
   {
     "keyword": "Data-Analyst",
@@ -67,7 +157,7 @@
     "company_name": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "12-Nov-2023 11:10:39",
-    "duration": 1
+    "duration": 3
   },
   {
     "keyword": "Data-Analyst",
@@ -77,7 +167,7 @@
     "company_name": "PT Thales Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "10-Nov-2023 09:51:34",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Data-Analyst",
@@ -87,7 +177,7 @@
     "company_name": "PT Inixindo Widya Iswara Nusantara",
     "company_location": "Yogyakarta",
     "job_posted_date": "09-Nov-2023 03:23:09",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Data-Analyst",
@@ -97,7 +187,7 @@
     "company_name": "PT Tirta Investama ( Danone Aqua )",
     "company_location": "Jakarta Raya",
     "job_posted_date": "08-Nov-2023 16:00:00",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
@@ -107,7 +197,7 @@
     "company_name": "PT Mitrausaha Indonesia Grup",
     "company_location": "Jakarta Barat",
     "job_posted_date": "08-Nov-2023 16:00:00",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
@@ -117,7 +207,7 @@
     "company_name": "PT. SATU BISNIS INDONESIA",
     "company_location": "Tangerang",
     "job_posted_date": "08-Nov-2023 10:20:47",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
@@ -127,7 +217,7 @@
     "company_name": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
     "company_location": "Surabaya",
     "job_posted_date": "08-Nov-2023 09:56:48",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
@@ -137,17 +227,17 @@
     "company_name": "PT ABISHAR TECHNOLOGIES INDONESIA",
     "company_location": "Surakarta",
     "job_posted_date": "08-Nov-2023 08:30:09",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
     "job_role": "DATA ANALYST OFFICER for Merchandising Division",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-officer-for-merchandising-division-4522251",
-    "company_name": "PT Matahari Department Store Tbk",
+    "company_name": "PT Binara Guna Mediktama",
     "company_location": "Tangerang",
     "job_posted_date": "08-Nov-2023 02:57:15",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Data-Analyst",
@@ -157,7 +247,7 @@
     "company_name": "PT Akasha Wira International Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 08:31:35",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Data-Analyst",
@@ -167,7 +257,7 @@
     "company_name": "PT Mulia Industrindo, Tbk",
     "company_location": "Cikarang",
     "job_posted_date": "06-Nov-2023 16:00:00",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Analyst",
@@ -177,7 +267,7 @@
     "company_name": "PT Eka Bogainti",
     "company_location": "Jakarta Timur",
     "job_posted_date": "06-Nov-2023 09:29:54",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Analyst",
@@ -187,7 +277,7 @@
     "company_name": "PT. Berca Hardayaperkasa",
     "company_location": "Jakarta Raya",
     "job_posted_date": "06-Nov-2023 03:28:10",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Analyst",
@@ -197,7 +287,7 @@
     "company_name": "PT Asuransi Jiwa Astra",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "06-Nov-2023 03:24:07",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Analyst",
@@ -207,7 +297,7 @@
     "company_name": "PT Eka Bogainti",
     "company_location": "Jakarta Timur",
     "job_posted_date": "06-Nov-2023 02:22:41",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Analyst",
@@ -217,7 +307,7 @@
     "company_name": "PT Trinusa Travelindo",
     "company_location": "Jakarta Raya",
     "job_posted_date": "05-Nov-2023 16:00:00",
-    "duration": 8
+    "duration": 10
   },
   {
     "keyword": "Data-Analyst",
@@ -227,7 +317,7 @@
     "company_name": "PT Tatalogam Lestari",
     "company_location": "Jakarta Barat",
     "job_posted_date": "04-Nov-2023 02:45:15",
-    "duration": 9
+    "duration": 11
   },
   {
     "keyword": "Data-Analyst",
@@ -237,7 +327,7 @@
     "company_name": "PT Pasifik Satelit Nusantara",
     "company_location": "Indonesia",
     "job_posted_date": "03-Nov-2023 16:00:00",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Data-Analyst",
@@ -247,7 +337,7 @@
     "company_name": "PT Smartfren Telecom Tbk",
     "company_location": "Yogyakarta",
     "job_posted_date": "03-Nov-2023 07:37:58",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Data-Analyst",
@@ -257,7 +347,7 @@
     "company_name": "PT. Aleyah Sintasint Farma",
     "company_location": "Surabaya",
     "job_posted_date": "03-Nov-2023 03:57:28",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Data-Analyst",
@@ -265,9 +355,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/crm-business-analyst-data-analyst-4517951",
     "company_name": "Time International",
-    "company_location": "Kulon Progo",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "03-Nov-2023 03:39:53",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Data-Analyst",
@@ -277,7 +367,7 @@
     "company_name": "PT Sukanda Djaya",
     "company_location": "Bekasi",
     "job_posted_date": "02-Nov-2023 02:06:39",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Data-Analyst",
@@ -287,7 +377,7 @@
     "company_name": "Kompas Gramedia - KG Media",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "01-Nov-2023 04:33:54",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Data-Analyst",
@@ -297,7 +387,7 @@
     "company_name": "PT Foodex Inti Ingredients",
     "company_location": "Cikarang",
     "job_posted_date": "01-Nov-2023 02:46:07",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Data-Analyst",
@@ -307,7 +397,7 @@
     "company_name": "PT Softex Indonesia",
     "company_location": "Depok",
     "job_posted_date": "01-Nov-2023 01:28:32",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Data-Analyst",
@@ -315,9 +405,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-intern-1037308625",
     "company_name": "PT Qiscus Tekno Indonesia",
-    "company_location": "Karawang",
+    "company_location": "Yogyakarta",
     "job_posted_date": "31-Oct-2023 16:00:00",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Data-Analyst",
@@ -327,7 +417,7 @@
     "company_name": "PT Ultra Prima Abadi (Orang Tua Group)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "31-Oct-2023 08:58:10",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Data-Analyst",
@@ -337,7 +427,7 @@
     "company_name": "I CAN READ",
     "company_location": "Jakarta Raya",
     "job_posted_date": "31-Oct-2023 04:38:24",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Data-Analyst",
@@ -345,9 +435,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/sales-data-analyst-1037284663",
     "company_name": "PT Wisnu Ananda Jaya",
-    "company_location": "Jakarta Timur",
+    "company_location": "Jakarta Selatan",
     "job_posted_date": "28-Oct-2023 16:00:00",
-    "duration": 16
+    "duration": 18
   },
   {
     "keyword": "Data-Analyst",
@@ -357,7 +447,7 @@
     "company_name": "PT Nirwana Lestari.",
     "company_location": "Bekasi",
     "job_posted_date": "27-Oct-2023 09:57:18",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -367,7 +457,7 @@
     "company_name": "Meilani Statistical Consulting",
     "company_location": "Yogyakarta",
     "job_posted_date": "27-Oct-2023 08:17:28",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -377,7 +467,7 @@
     "company_name": "PT Tunas Ridean",
     "company_location": "Bandar Lampung",
     "job_posted_date": "27-Oct-2023 07:16:21",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -387,7 +477,7 @@
     "company_name": "PT Exa Mitra Solusi",
     "company_location": "Jakarta Barat",
     "job_posted_date": "27-Oct-2023 06:56:03",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -397,7 +487,7 @@
     "company_name": "PT Arya Noble",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "27-Oct-2023 05:43:11",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -407,17 +497,17 @@
     "company_name": "PT Bangja Inti Ingridien",
     "company_location": "Sidoarjo",
     "job_posted_date": "27-Oct-2023 04:20:45",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
     "job_role": "Data Analyst Marketing ,Lokasi Kerja : Malajaya, kab Bandung.",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-marketing-lokasi-kerja-%3A-malajaya-kab-bandung.-4511172",
-    "company_name": "PT Multi Star Rukun Abadi (Sharon Bakery)",
+    "company_name": "PT Bussan Auto Finance (BAF)",
     "company_location": "Bandung",
     "job_posted_date": "27-Oct-2023 02:08:46",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Analyst",
@@ -427,7 +517,7 @@
     "company_name": "PT Wisnu Ananda Jaya",
     "company_location": "Jakarta Raya",
     "job_posted_date": "26-Oct-2023 04:47:32",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Analyst",
@@ -437,7 +527,7 @@
     "company_name": "PT Pesta Pora Abadi",
     "company_location": "Malang",
     "job_posted_date": "26-Oct-2023 04:25:23",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Analyst",
@@ -447,7 +537,7 @@
     "company_name": "PT. FWD Insurance Indonesia ( HO )",
     "company_location": "Jakarta Raya",
     "job_posted_date": "26-Oct-2023 03:32:40",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Analyst",
@@ -457,7 +547,7 @@
     "company_name": "Musim Mas",
     "company_location": "Medan",
     "job_posted_date": "26-Oct-2023 02:08:12",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Analyst",
@@ -467,7 +557,7 @@
     "company_name": "INDONESIA PALM OIL STRATEGIC STUDIES",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "25-Oct-2023 15:47:12",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Analyst",
@@ -477,7 +567,7 @@
     "company_name": "PT Kumala Cemerlang Abadi",
     "company_location": "Kalimantan Timur",
     "job_posted_date": "25-Oct-2023 07:12:48",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Analyst",
@@ -487,7 +577,7 @@
     "company_name": "PZ Cussons Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 06:45:04",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Analyst",
@@ -497,7 +587,7 @@
     "company_name": "PT Datacomm Diangraha",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "25-Oct-2023 06:35:21",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Analyst",
@@ -507,7 +597,7 @@
     "company_name": "PT Suzuki Indomobil Motor",
     "company_location": "Jakarta Timur",
     "job_posted_date": "25-Oct-2023 04:50:22",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Analyst",
@@ -517,7 +607,7 @@
     "company_name": "CoLearn",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 16:00:00",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Analyst",
@@ -527,7 +617,7 @@
     "company_name": "PT GREENLY LIFESTYLE INDONESIA",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 15:43:07",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Analyst",
@@ -537,7 +627,7 @@
     "company_name": "PT. Satya Langgeng Sentosa",
     "company_location": "Jakarta Barat",
     "job_posted_date": "24-Oct-2023 09:14:00",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Analyst",
@@ -545,9 +635,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-for-getplus-4507756",
     "company_name": "PT Merah Cipta Media",
-    "company_location": "Jakarta Selatan",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "24-Oct-2023 03:42:03",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Analyst",
@@ -557,7 +647,7 @@
     "company_name": "PT Merah Cipta Media",
     "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 16:00:00",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Analyst",
@@ -565,19 +655,19 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-staff-cfiat-surabaya-4507240",
     "company_name": "Indoprima Group",
-    "company_location": "Gresik",
+    "company_location": "Jakarta Barat",
     "job_posted_date": "23-Oct-2023 09:52:30",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Analyst",
     "job_role": "JUNIOR STAFF DATA ANALYST",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/junior-staff-data-analyst-4506268",
-    "company_name": "PT NITERRA MOBILITY INDONESIA",
+    "company_name": "PT. Datascrip",
     "company_location": "Jakarta Timur",
     "job_posted_date": "23-Oct-2023 02:49:53",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Analyst",
@@ -587,7 +677,7 @@
     "company_name": "PT Mitrausaha Indonesia Grup",
     "company_location": "Jakarta Barat",
     "job_posted_date": "21-Oct-2023 16:00:00",
-    "duration": 23
+    "duration": 25
   },
   {
     "keyword": "Data-Analyst",
@@ -597,7 +687,7 @@
     "company_name": "PT Bank DBS Indonesia",
     "company_location": "Indonesia",
     "job_posted_date": "20-Oct-2023 16:00:00",
-    "duration": 24
+    "duration": 26
   },
   {
     "keyword": "Data-Analyst",
@@ -607,7 +697,7 @@
     "company_name": "PT Akulaku Silvrr Indonesia",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "20-Oct-2023 07:23:32",
-    "duration": 24
+    "duration": 26
   },
   {
     "keyword": "Data-Analyst",
@@ -617,7 +707,7 @@
     "company_name": "PT Kawan Lama Sejahtera",
     "company_location": "Indonesia",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Analyst",
@@ -627,7 +717,7 @@
     "company_name": "PT Union Sampoerna Triputra Persada",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 10:58:39",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Analyst",
@@ -637,7 +727,7 @@
     "company_name": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "19-Oct-2023 09:24:12",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Analyst",
@@ -647,7 +737,7 @@
     "company_name": "PT Harsana Eklinika Reforma",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 03:18:48",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Analyst",
@@ -657,7 +747,7 @@
     "company_name": "PT. Sejahtera Khatulistiwa Perkasa",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "18-Oct-2023 09:06:50",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Data-Analyst",
@@ -667,7 +757,7 @@
     "company_name": "PT Asuransi Umum Bumiputera Muda 1967",
     "company_location": "Jakarta Raya",
     "job_posted_date": "18-Oct-2023 03:40:30",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Data-Analyst",
@@ -675,9 +765,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/junior-instruktur-data-analyst-1037213568",
     "company_name": "PT Inixindo Amiete Mandiri",
-    "company_location": "Probolinggo",
+    "company_location": "Jawa Barat",
     "job_posted_date": "17-Oct-2023 16:00:00",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Data-Analyst",
@@ -685,9 +775,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-intern-1037213363",
     "company_name": "PT Cakap Upaya Sahaja Teknologi",
-    "company_location": "Jakarta Utara",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "17-Oct-2023 16:00:00",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Data-Analyst",
@@ -695,19 +785,19 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-bali-4501838",
     "company_name": "CV JHON NIAGA PERKASA",
-    "company_location": "Kuta",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "17-Oct-2023 08:37:19",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Data-Analyst",
     "job_role": "Retail Data Analyst Manager",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/retail-data-analyst-manager-4501451",
-    "company_name": "PT Asuransi Jiwa Manulife Indonesia (Dept PB Danamon)",
+    "company_name": "PT Duta Intiguna Yasa (MR DIY)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "17-Oct-2023 05:49:51",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Data-Analyst",
@@ -715,19 +805,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-analyst-4500199",
     "company_name": "PT Eka Bogainti",
-    "company_location": "Jakarta Timur",
+    "company_location": "Jakarta Barat",
     "job_posted_date": "16-Oct-2023 07:41:50",
-    "duration": 28
-  },
-  {
-    "keyword": "Data-Analyst",
-    "job_role": "Manager Support (IT-Data Analyst, Fullfillment/Warehouse, GA)",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/manager-support-it-data-analyst-fullfillment-warehouse-ga-4499847",
-    "company_name": "PT. GAWE BECIK NADHAH ANUGRAH",
-    "company_location": "Yogyakarta",
-    "job_posted_date": "16-Oct-2023 04:55:07",
-    "duration": 28
+    "duration": 30
   },
   {
     "keyword": "Data-Analis",
@@ -737,7 +817,7 @@
     "company_name": "PT Fastrata Buana (Distributor Kapal Api)",
     "company_location": "Malang",
     "job_posted_date": "09-Nov-2023 03:36:09",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Data-Analis",
@@ -747,7 +827,7 @@
     "company_name": "PT Aroma Prima Livindo",
     "company_location": "Tangerang",
     "job_posted_date": "24-Oct-2023 07:16:28",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Analis",
@@ -757,7 +837,7 @@
     "company_name": "PT Persada Inti Utama (Jakarta)",
     "company_location": "Surabaya",
     "job_posted_date": "23-Oct-2023 08:42:15",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Analis",
@@ -767,7 +847,47 @@
     "company_name": "PT Tera Achiever",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "17-Oct-2023 02:15:09",
-    "duration": 27
+    "duration": 29
+  },
+  {
+    "keyword": "Data-Engineer",
+    "job_role": "MINING DATA ENGINEER & ANALYST",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/mining-data-engineer-analyst-4529803",
+    "company_name": "PT Sebuku Iron Lateritic Ores",
+    "company_location": "Kotabaru",
+    "job_posted_date": "15-Nov-2023 08:31:32",
+    "duration": 0
+  },
+  {
+    "keyword": "Data-Engineer",
+    "job_role": "Data Center-Operations Engineer",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-center-operations-engineer-5593064/origin/my",
+    "company_name": "TITANICOM TECH LIMITED",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "15-Nov-2023 01:58:09",
+    "duration": 0
+  },
+  {
+    "keyword": "Data-Engineer",
+    "job_role": "Data Centre Engineering Lead",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-centre-engineering-lead-11121305/origin/sg",
+    "company_name": "PT Lion Wings",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "14-Nov-2023 02:53:01",
+    "duration": 1
+  },
+  {
+    "keyword": "Data-Engineer",
+    "job_role": "Data Engineer Staff",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-staff-4527850",
+    "company_name": "PT FASADE ARTHA TECHNOLOGI",
+    "company_location": "Jakarta Pusat",
+    "job_posted_date": "14-Nov-2023 02:40:42",
+    "duration": 1
   },
   {
     "keyword": "Data-Engineer",
@@ -777,7 +897,7 @@
     "company_name": "PT Surya Semesta Internusa, Tbk",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "13-Nov-2023 07:01:01",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Data-Engineer",
@@ -787,7 +907,17 @@
     "company_name": "PT Nomura Research Institute Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "13-Nov-2023 04:24:35",
-    "duration": 0
+    "duration": 2
+  },
+  {
+    "keyword": "Data-Engineer",
+    "job_role": "Database Engineer",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/database-engineer-1037382078",
+    "company_name": "PT Dokusis Solusi Indonesia",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "12-Nov-2023 16:00:00",
+    "duration": 3
   },
   {
     "keyword": "Data-Engineer",
@@ -797,7 +927,7 @@
     "company_name": "PT Karya Solusi Prima Sejahtera",
     "company_location": "Purwakarta",
     "job_posted_date": "10-Nov-2023 01:08:22",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Data-Engineer",
@@ -807,7 +937,7 @@
     "company_name": "PT. Semesta Arus Teknologi",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "09-Nov-2023 09:51:31",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Data-Engineer",
@@ -817,17 +947,17 @@
     "company_name": "PT I Like Gym Indonesia",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "08-Nov-2023 18:00:00",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-1037355071",
-    "company_name": "PT Technip Indonesia",
+    "company_name": "PT Surya Semesta Internusa, Tbk",
     "company_location": "Jawa Barat",
     "job_posted_date": "07-Nov-2023 16:00:00",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Data-Engineer",
@@ -837,7 +967,7 @@
     "company_name": "PT Karya Solusi Prima Sejahtera",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 04:42:30",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Data-Engineer",
@@ -847,7 +977,7 @@
     "company_name": "PT NTT Global Data Centers Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "06-Nov-2023 16:00:00",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Engineer",
@@ -857,7 +987,7 @@
     "company_name": "PT Dian Swastatika Sentosa, Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "06-Nov-2023 10:03:38",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Data-Engineer",
@@ -867,7 +997,7 @@
     "company_name": "PT Trinusa Travelindo",
     "company_location": "Jakarta Raya",
     "job_posted_date": "05-Nov-2023 16:00:00",
-    "duration": 8
+    "duration": 10
   },
   {
     "keyword": "Data-Engineer",
@@ -877,7 +1007,7 @@
     "company_name": "PT Bumi Amartha Teknologi Mandiri",
     "company_location": "Jakarta Raya",
     "job_posted_date": "02-Nov-2023 07:05:45",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Data-Engineer",
@@ -887,7 +1017,7 @@
     "company_name": "PT Kuaikuai Tech Indonesia",
     "company_location": "Jakarta Barat",
     "job_posted_date": "02-Nov-2023 04:50:11",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Data-Engineer",
@@ -897,7 +1027,7 @@
     "company_name": "MAKA Motors",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "02-Nov-2023 04:44:14",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Data-Engineer",
@@ -907,7 +1037,7 @@
     "company_name": "Kompas Gramedia - KG Media",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "01-Nov-2023 03:59:34",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Data-Engineer",
@@ -917,17 +1047,7 @@
     "company_name": "PT Michael Page Internasional Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "01-Nov-2023 01:00:00",
-    "duration": 12
-  },
-  {
-    "keyword": "Data-Engineer",
-    "job_role": "IT Data Engineer",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/it-data-engineer-1037292531",
-    "company_name": "OGYA",
-    "company_location": "Jakarta Selatan",
-    "job_posted_date": "29-Oct-2023 16:00:00",
-    "duration": 15
+    "duration": 14
   },
   {
     "keyword": "Data-Engineer",
@@ -937,67 +1057,57 @@
     "company_name": "PT Artajasa Pembayaran Elektronis",
     "company_location": "Jawa Tengah",
     "job_posted_date": "27-Oct-2023 02:47:15",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-4510949",
-    "company_name": "PT Djaja Listrik Jakarta",
-    "company_location": "Jawa Timur",
+    "company_name": "PT. Metrodata Electronics, Tbk",
+    "company_location": "Jakarta Barat",
     "job_posted_date": "26-Oct-2023 10:17:44",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-4506974",
-    "company_name": "PT. Fortech Indotama",
+    "company_name": "PT. Berca Hardayaperkasa",
     "company_location": "Kalimantan Timur",
     "job_posted_date": "26-Oct-2023 07:59:10",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer (ETL Developer)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509514",
-    "company_name": "PT Linov Roket Prestasi",
+    "company_name": "PT Armada Rock Karunia Transshipment",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 08:08:36",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer (ETL Developer)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-etl-developer-4509449",
-    "company_name": "PT Lawencon Internasional",
+    "company_name": "PT Formulatrix Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 07:42:58",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Engineer",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-4508879",
-    "company_name": "PT Serasi Autoraya (Member of Astra)",
+    "company_name": "PT Servvo Fire Indonesia",
     "company_location": "Jakarta Utara",
     "job_posted_date": "25-Oct-2023 02:45:32",
-    "duration": 19
-  },
-  {
-    "keyword": "Data-Engineer",
-    "job_role": "Software - Defined Data Center Engineer",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/software-defined-data-center-engineer-4508849",
-    "company_name": "PT Radinka Anugra",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "25-Oct-2023 02:32:08",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Data-Engineer",
@@ -1007,7 +1117,7 @@
     "company_name": "PT Artha Arbhiwi Abadi",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 04:21:16",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Engineer",
@@ -1017,7 +1127,7 @@
     "company_name": "Ann's Bakehouse",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 04:13:09",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Data-Engineer",
@@ -1025,9 +1135,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-4507119",
     "company_name": "PT Tera Achiever",
-    "company_location": "Jawa Tengah",
+    "company_location": "Jakarta Selatan",
     "job_posted_date": "23-Oct-2023 08:57:19",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Engineer",
@@ -1035,9 +1145,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/etl-data-engineer-4506533",
     "company_name": "Mister Aladin",
-    "company_location": "Jakarta Selatan",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 04:32:07",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Engineer",
@@ -1047,7 +1157,7 @@
     "company_name": "PT Mitra Informatika",
     "company_location": "Surabaya",
     "job_posted_date": "23-Oct-2023 01:18:43",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Engineer",
@@ -1057,7 +1167,7 @@
     "company_name": "PT Morula Indonesia",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "23-Oct-2023 01:06:15",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Engineer",
@@ -1067,7 +1177,7 @@
     "company_name": "PT Michael Page Internasional Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 01:00:00",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Data-Engineer",
@@ -1077,7 +1187,7 @@
     "company_name": "PT Garena Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "22-Oct-2023 16:00:00",
-    "duration": 22
+    "duration": 24
   },
   {
     "keyword": "Data-Engineer",
@@ -1087,7 +1197,7 @@
     "company_name": "PT Valdo Sumber Daya Mandiri",
     "company_location": "Jakarta Raya",
     "job_posted_date": "20-Oct-2023 10:12:15",
-    "duration": 24
+    "duration": 26
   },
   {
     "keyword": "Data-Engineer",
@@ -1097,7 +1207,7 @@
     "company_name": "PT Graha Karya Informasi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Engineer",
@@ -1107,7 +1217,7 @@
     "company_name": "Meinhardt (Malaysia) Sdn Bhd",
     "company_location": "Badung",
     "job_posted_date": "19-Oct-2023 07:28:41",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Engineer",
@@ -1117,7 +1227,7 @@
     "company_name": "Meinhardt (Malaysia) Sdn Bhd",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "19-Oct-2023 07:26:27",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Engineer",
@@ -1127,7 +1237,7 @@
     "company_name": "PT. HTC Global Software Services",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 04:53:59",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Engineer",
@@ -1137,27 +1247,27 @@
     "company_name": "PT K-24 Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 03:40:24",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "DATA ENGINEER",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-engineer-4502955",
-    "company_name": "PT Asuransi MSIG Indonesia",
+    "company_name": "PT Autoliv Indonesia",
     "company_location": "Jakarta Timur",
     "job_posted_date": "18-Oct-2023 07:19:28",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Data-Engineer",
     "job_role": "Data Warehouse - Data Engineer",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/data-warehouse-data-engineer-4502839",
-    "company_name": "PT Autoliv Indonesia",
+    "company_name": "PT Sunindo KB Finance",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "18-Oct-2023 06:45:15",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Data-Engineer",
@@ -1167,27 +1277,7 @@
     "company_name": "PT Mitra Solusi Telematika",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "17-Oct-2023 02:36:16",
-    "duration": 27
-  },
-  {
-    "keyword": "Data-Engineer",
-    "job_role": "Data Center Engineering Operation (DCEO) Trainee",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/data-center-engineering-operation-dceo-trainee-1037205066",
-    "company_name": "PT Amazone Dunia Rekreasi",
-    "company_location": "Indonesia",
-    "job_posted_date": "16-Oct-2023 16:00:00",
-    "duration": 28
-  },
-  {
-    "keyword": "Data-Engineer",
-    "job_role": "SENIOR SALES ENGINEER  ( DATA CENTER & TELECOM",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/senior-sales-engineer-data-center-telecom-4499341",
-    "company_name": "PT Oaktech Nusantara",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "15-Oct-2023 18:00:00",
-    "duration": 28
+    "duration": 29
   },
   {
     "keyword": "ETL-Developer",
@@ -1197,7 +1287,7 @@
     "company_name": "PT IDStar Cipta Teknologi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "02-Nov-2023 01:55:31",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "ETL-Developer",
@@ -1207,7 +1297,7 @@
     "company_name": "PT Linov Roket Prestasi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 08:08:36",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "ETL-Developer",
@@ -1217,7 +1307,7 @@
     "company_name": "PT Lawencon Internasional",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 07:42:58",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "ETL-Developer",
@@ -1227,7 +1317,7 @@
     "company_name": "PT Multipolar Technology Tbk",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 03:55:41",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "ETL-Developer",
@@ -1237,7 +1327,7 @@
     "company_name": "PT Intrias Mandiri Sejati",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 01:18:06",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "ETL-Developer",
@@ -1247,7 +1337,7 @@
     "company_name": "PT Bumi Amartha Teknologi Mandiri",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "18-Oct-2023 07:34:25",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Power-BI-Developer",
@@ -1257,7 +1347,7 @@
     "company_name": "PT Adinata Mitra Solusi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Power-BI-Developer",
@@ -1267,27 +1357,37 @@
     "company_name": "PT Metrodata Electronics Tbk",
     "company_location": "Jakarta Barat",
     "job_posted_date": "18-Oct-2023 16:00:00",
-    "duration": 26
+    "duration": 28
+  },
+  {
+    "keyword": "Business-Intelligence",
+    "job_role": "Business Intelligence",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-intelligence-1037382253",
+    "company_name": "PT Artha Persada Kreatif",
+    "company_location": "Indonesia",
+    "job_posted_date": "12-Nov-2023 16:00:00",
+    "duration": 3
   },
   {
     "keyword": "Business-Intelligence",
     "job_role": "Business Intelligence (CX Team)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-intelligence-cx-team-1037372512",
-    "company_name": "PT Andiarta Muzizat",
+    "company_name": "Lion Parcel",
     "company_location": "Jakarta Raya",
     "job_posted_date": "09-Nov-2023 16:00:00",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Intelligence",
     "job_role": "BUSINESS INTELLIGENCE (BI) SPESIALIST",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-intelligence-bi-spesialist-4524434",
-    "company_name": "Johnson Controls",
+    "company_name": "PT Fastrata Buana (Distributor Kapal Api)",
     "company_location": "Jakarta Timur",
     "job_posted_date": "09-Nov-2023 08:57:17",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Intelligence",
@@ -1297,7 +1397,7 @@
     "company_name": "PT Ako Media Asia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 07:44:10",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Intelligence",
@@ -1307,7 +1407,7 @@
     "company_name": "FKS Group",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "07-Nov-2023 04:18:13",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Intelligence",
@@ -1317,7 +1417,7 @@
     "company_name": "PT Gudang Ada Globalindo",
     "company_location": "Tangerang",
     "job_posted_date": "04-Nov-2023 01:24:09",
-    "duration": 9
+    "duration": 11
   },
   {
     "keyword": "Business-Intelligence",
@@ -1327,7 +1427,7 @@
     "company_name": "PT SMART,Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "03-Nov-2023 11:46:24",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Business-Intelligence",
@@ -1337,7 +1437,7 @@
     "company_name": "IKEA Indonesia",
     "company_location": "Banten",
     "job_posted_date": "03-Nov-2023 04:21:03",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Business-Intelligence",
@@ -1347,7 +1447,7 @@
     "company_name": "PT Bank Sinarmas, Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "02-Nov-2023 09:54:05",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Intelligence",
@@ -1357,7 +1457,7 @@
     "company_name": "PT Hyundai Motors Indonesia",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "02-Nov-2023 09:28:34",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Intelligence",
@@ -1367,7 +1467,7 @@
     "company_name": "PT Shopee International Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 16:00:00",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Business-Intelligence",
@@ -1377,7 +1477,7 @@
     "company_name": "PT KB Finansia Multi Finance",
     "company_location": "Jakarta Timur",
     "job_posted_date": "23-Oct-2023 02:44:40",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Business-Intelligence",
@@ -1387,7 +1487,7 @@
     "company_name": "Lion Parcel",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Intelligence",
@@ -1397,7 +1497,7 @@
     "company_name": "PT Kamoro Maxima Integra",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "19-Oct-2023 01:45:29",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Intelligence",
@@ -1407,27 +1507,17 @@
     "company_name": "PT Duta Intiguna Yasa (MR DIY)",
     "company_location": "Banjarnegara",
     "job_posted_date": "17-Oct-2023 07:03:40",
-    "duration": 27
-  },
-  {
-    "keyword": "Business-Intelligence",
-    "job_role": "Research & Insight Intern  - Business Intelligence",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/research-insight-intern-business-intelligence-1037205069",
-    "company_name": "Dentsu Aegis Network Indonesia",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "16-Oct-2023 16:00:00",
-    "duration": 28
+    "duration": 29
   },
   {
     "keyword": "Business-Intelligence",
     "job_role": "Business Intelligence Staff",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-intelligence-staff-4500445",
-    "company_name": "PT Lawencon Internasional",
-    "company_location": "Mojokerto",
+    "company_name": "PT Indo Seungli Makmur",
+    "company_location": "Jakarta Selatan",
     "job_posted_date": "16-Oct-2023 09:12:07",
-    "duration": 28
+    "duration": 30
   },
   {
     "keyword": "Business-Intelligence Analyst",
@@ -1437,7 +1527,7 @@
     "company_name": "PT Ako Media Asia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 07:44:10",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Intelligence Analyst",
@@ -1447,7 +1537,7 @@
     "company_name": "FKS Group",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "07-Nov-2023 04:18:13",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Intelligence Analyst",
@@ -1457,7 +1547,7 @@
     "company_name": "PT Gudang Ada Globalindo",
     "company_location": "Tangerang",
     "job_posted_date": "04-Nov-2023 01:24:09",
-    "duration": 9
+    "duration": 11
   },
   {
     "keyword": "Business-Intelligence Analyst",
@@ -1467,7 +1557,157 @@
     "company_name": "ASIA RESEARCH INSTITUTE",
     "company_location": "Banjarnegara",
     "job_posted_date": "17-Oct-2023 07:03:40",
-    "duration": 27
+    "duration": 29
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4530067",
+    "company_name": "PT Sinarmas Multifinance",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "15-Nov-2023 11:04:26",
+    "duration": 0
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT BUSINESS ANALYST",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4529596",
+    "company_name": "PT Mega Central Finance",
+    "company_location": "Jakarta Barat",
+    "job_posted_date": "15-Nov-2023 06:54:40",
+    "duration": 0
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Development Analyst (Property)",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-development-analyst-property-4529282",
+    "company_name": "FKS Group",
+    "company_location": "Jakarta Pusat",
+    "job_posted_date": "15-Nov-2023 03:42:34",
+    "duration": 0
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4529180",
+    "company_name": "PT Sahassa Panca Manunggal",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "15-Nov-2023 03:09:01",
+    "duration": 0
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Head of IT Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/head-of-it-business-analyst-4528689",
+    "company_name": "PT Adira Dinamika Multi Finance Tbk",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "14-Nov-2023 09:09:27",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT PM BUSINESS ANALYST",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-pm-business-analyst-4528513",
+    "company_name": "PT Insura Media Solusi (Jakarta)",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "14-Nov-2023 07:43:46",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4528464",
+    "company_name": "PT JELAJAH DATA SEMESTA",
+    "company_location": "Jakarta Pusat",
+    "job_posted_date": "14-Nov-2023 07:23:20",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "BUSINESS ANALYST",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4528057",
+    "company_name": "PT WIRYAMANTA SADINA (WINGSTOP)",
+    "company_location": "Jakarta Timur",
+    "job_posted_date": "14-Nov-2023 03:58:34",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Process Analyst Improvement Officer",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-process-analyst-improvement-officer-4527983",
+    "company_name": "PT Ithaca Resources",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "14-Nov-2023 03:33:37",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Mid Business Analyst Indonesia",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/mid-business-analyst-indonesia-4527823",
+    "company_name": "PT PCI Consulting and Solutions (Jakarta)",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "14-Nov-2023 02:31:33",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Senior Business Analyst Indonesia",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/senior-business-analyst-indonesia-4527801",
+    "company_name": "PT PCI Consulting and Solutions (Jakarta)",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "14-Nov-2023 02:21:10",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT Business Analyst Supervisor",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-supervisor-4527794",
+    "company_name": "PT Tunas Ridean",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "14-Nov-2023 02:18:49",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Senior Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/senior-business-analyst-4527676",
+    "company_name": "PT. Amalura Multi Dimensi",
+    "company_location": "Jakarta Timur",
+    "job_posted_date": "14-Nov-2023 01:12:53",
+    "duration": 1
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037389711",
+    "company_name": "PT Lunaria Annua Teknologi (KoinWorks)",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "13-Nov-2023 16:00:00",
+    "duration": 2
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business & Data Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-data-analyst-1037388887",
+    "company_name": "Jejaring Tiga Artha (zicare.id)",
+    "company_location": "Jakarta Selatan",
+    "job_posted_date": "13-Nov-2023 16:00:00",
+    "duration": 2
   },
   {
     "keyword": "Business-Analyst",
@@ -1477,7 +1717,7 @@
     "company_name": "PT Logique Digital Indonesia",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "13-Nov-2023 10:00:45",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Business-Analyst",
@@ -1487,7 +1727,7 @@
     "company_name": "Erajaya Group",
     "company_location": "Jakarta Utara",
     "job_posted_date": "13-Nov-2023 09:15:04",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Business-Analyst",
@@ -1497,7 +1737,7 @@
     "company_name": "PT Cipta Krida Bahari",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "13-Nov-2023 05:06:34",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Business-Analyst",
@@ -1507,7 +1747,7 @@
     "company_name": "PT Karya Solusi Prima Sejahtera",
     "company_location": "Tangerang",
     "job_posted_date": "13-Nov-2023 05:02:12",
-    "duration": 0
+    "duration": 2
   },
   {
     "keyword": "Business-Analyst",
@@ -1517,16 +1757,6 @@
     "company_name": "PT Solusi Pembayaran Elektronik",
     "company_location": "Jakarta Barat",
     "job_posted_date": "13-Nov-2023 04:37:32",
-    "duration": 0
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037378505",
-    "company_name": "PT Tricada Intronik",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "11-Nov-2023 16:00:00",
     "duration": 2
   },
   {
@@ -1534,10 +1764,20 @@
     "job_role": "Senior Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/senior-business-analyst-1037378656",
-    "company_name": "PT GLOBAL LOYALTY INDONESIA",
+    "company_name": "PT Cakap Upaya Sahaja Teknologi",
     "company_location": "Bandung",
     "job_posted_date": "11-Nov-2023 16:00:00",
-    "duration": 2
+    "duration": 4
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037378505",
+    "company_name": "PT GLOBAL LOYALTY INDONESIA",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "11-Nov-2023 16:00:00",
+    "duration": 4
   },
   {
     "keyword": "Business-Analyst",
@@ -1547,17 +1787,17 @@
     "company_name": "IDMETAFORA - PT Metafora Indonesia Teknologi - Jakarta Selatan",
     "company_location": "Jakarta Raya",
     "job_posted_date": "10-Nov-2023 16:00:00",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business Analyst SAP Business One",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-sap-business-one-4525682",
-    "company_name": "PT Nomura Research Institute Indonesia",
+    "company_name": "PT Inti Data Utama",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "10-Nov-2023 09:38:19",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1567,7 +1807,7 @@
     "company_name": "PT Mitsui Leasing Capital Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "10-Nov-2023 07:35:07",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1577,7 +1817,7 @@
     "company_name": "PT ASURANSI SIMAS JIWA",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "10-Nov-2023 06:50:23",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1587,7 +1827,7 @@
     "company_name": "PT Fastrata Buana",
     "company_location": "Jakarta Timur",
     "job_posted_date": "10-Nov-2023 06:42:52",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1597,7 +1837,7 @@
     "company_name": "PT Indocyber Global Teknologi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "10-Nov-2023 04:05:25",
-    "duration": 3
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1607,17 +1847,7 @@
     "company_name": "PT Porto Indonesia Sejahtera",
     "company_location": "Jakarta Utara",
     "job_posted_date": "10-Nov-2023 02:09:38",
-    "duration": 3
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037372721",
-    "company_name": "PT Trinusa Travelindo",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "09-Nov-2023 16:00:00",
-    "duration": 4
+    "duration": 5
   },
   {
     "keyword": "Business-Analyst",
@@ -1627,7 +1857,17 @@
     "company_name": "PT Lunaria Annua Teknologi (KoinWorks)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "09-Nov-2023 16:00:00",
-    "duration": 4
+    "duration": 6
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037372721",
+    "company_name": "PT Trinusa Travelindo",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "09-Nov-2023 16:00:00",
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1637,7 +1877,7 @@
     "company_name": "PT Galva Galindra Multi Cipta",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "09-Nov-2023 08:14:48",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1647,7 +1887,7 @@
     "company_name": "PT. PITIK DIGITAL INDONESIA",
     "company_location": "Tangerang",
     "job_posted_date": "09-Nov-2023 08:01:10",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1657,7 +1897,7 @@
     "company_name": "PT Satu Dental Indonesia",
     "company_location": "Jakarta Utara",
     "job_posted_date": "09-Nov-2023 04:51:41",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1667,7 +1907,7 @@
     "company_name": "PT Mega Niaga Sejahtera",
     "company_location": "Bogor",
     "job_posted_date": "09-Nov-2023 04:04:07",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1677,7 +1917,7 @@
     "company_name": "PT MAS ARYA INDONESIA (Semarang)",
     "company_location": "Semarang",
     "job_posted_date": "09-Nov-2023 03:20:21",
-    "duration": 4
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1687,17 +1927,7 @@
     "company_name": "PT Vale Indonesia Tbk",
     "company_location": "Sulawesi Selatan",
     "job_posted_date": "09-Nov-2023 02:41:38",
-    "duration": 4
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Junior Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/junior-business-analyst-1037364627",
-    "company_name": "PT Trinusa Travelindo",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "08-Nov-2023 16:00:00",
-    "duration": 5
+    "duration": 6
   },
   {
     "keyword": "Business-Analyst",
@@ -1707,7 +1937,17 @@
     "company_name": "PT Astra International Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "08-Nov-2023 16:00:00",
-    "duration": 5
+    "duration": 7
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Junior Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/junior-business-analyst-1037364627",
+    "company_name": "PT Trinusa Travelindo",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "08-Nov-2023 16:00:00",
+    "duration": 7
   },
   {
     "keyword": "Business-Analyst",
@@ -1717,17 +1957,17 @@
     "company_name": "PT Triyasa Propertindo (Member of Tiara Marga Trakindo Group)",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "08-Nov-2023 10:07:42",
-    "duration": 5
+    "duration": 7
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst - Mobile Banking",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-mobile-banking-1037355886",
-    "company_name": "PT KOLTIVA",
+    "company_name": "PT Asian Sigma Teknologi (SIGMATECH)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 16:00:00",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1737,7 +1977,7 @@
     "company_name": "PT PFI Mega Life Insurance",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 09:26:39",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1747,7 +1987,7 @@
     "company_name": "PT Orlansoft Data System",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 08:55:28",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1757,7 +1997,7 @@
     "company_name": "PT. Wide Technologies Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 07:58:26",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1767,7 +2007,7 @@
     "company_name": "PT Ako Media Asia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 07:44:10",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1777,7 +2017,7 @@
     "company_name": "PT Linov Roket Prestasi",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "07-Nov-2023 04:56:46",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1787,7 +2027,7 @@
     "company_name": "FKS Group",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "07-Nov-2023 04:18:13",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1797,7 +2037,7 @@
     "company_name": "PT Thales Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "07-Nov-2023 02:35:09",
-    "duration": 6
+    "duration": 8
   },
   {
     "keyword": "Business-Analyst",
@@ -1805,39 +2045,29 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-system-analyst-1037347545",
     "company_name": "PT Indocyber Global Teknologi",
-    "company_location": "Jakarta Raya",
+    "company_location": "Cikarang",
     "job_posted_date": "06-Nov-2023 16:00:00",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4519609",
-    "company_name": "PT. Berca Hardayaperkasa",
+    "company_name": "PT Kamoro Maxima Integra",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "06-Nov-2023 03:43:34",
-    "duration": 7
+    "duration": 9
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst (Data)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-data-4519544",
-    "company_name": "PT Lifelong Learning",
+    "company_name": "PT Asuransi Jiwa Astra",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "06-Nov-2023 03:24:07",
-    "duration": 7
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "RPA Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/rpa-business-analyst-1037338180",
-    "company_name": "PT Trinusa Travelindo",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "05-Nov-2023 16:00:00",
-    "duration": 8
+    "duration": 9
   },
   {
     "keyword": "Business-Analyst",
@@ -1847,7 +2077,7 @@
     "company_name": "Mullti Usaha Sejahtera",
     "company_location": "Jawa Timur",
     "job_posted_date": "05-Nov-2023 16:00:00",
-    "duration": 8
+    "duration": 10
   },
   {
     "keyword": "Business-Analyst",
@@ -1857,7 +2087,17 @@
     "company_name": "Cakra Jasa Pasific",
     "company_location": "Jawa Timur",
     "job_posted_date": "05-Nov-2023 16:00:00",
-    "duration": 8
+    "duration": 10
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "RPA Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/rpa-business-analyst-1037338180",
+    "company_name": "PT Trinusa Travelindo",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "05-Nov-2023 16:00:00",
+    "duration": 10
   },
   {
     "keyword": "Business-Analyst",
@@ -1867,7 +2107,7 @@
     "company_name": "PT Gudang Ada Globalindo",
     "company_location": "Tangerang",
     "job_posted_date": "04-Nov-2023 01:24:09",
-    "duration": 9
+    "duration": 11
   },
   {
     "keyword": "Business-Analyst",
@@ -1877,7 +2117,7 @@
     "company_name": "PT. TEBAR DIGITAL KREASI",
     "company_location": "Jawa Tengah",
     "job_posted_date": "03-Nov-2023 16:00:00",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Business-Analyst",
@@ -1887,7 +2127,7 @@
     "company_name": "PT SMART,Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "03-Nov-2023 11:46:24",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Business-Analyst",
@@ -1897,7 +2137,7 @@
     "company_name": "Time International",
     "company_location": "Jakarta Raya",
     "job_posted_date": "03-Nov-2023 03:39:53",
-    "duration": 10
+    "duration": 12
   },
   {
     "keyword": "Business-Analyst",
@@ -1905,9 +2145,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4517294",
     "company_name": "PT Infra Solusi Indonesia",
-    "company_location": "Jakarta Pusat",
+    "company_location": "Tangerang",
     "job_posted_date": "02-Nov-2023 08:44:35",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Analyst",
@@ -1915,9 +2155,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-research-analyst-junior-staff-4516701",
     "company_name": "PT Idola Cahaya Semesta",
-    "company_location": "Semarang",
+    "company_location": "Bekasi",
     "job_posted_date": "02-Nov-2023 03:48:11",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Analyst",
@@ -1925,9 +2165,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-mandarin-speaker-4516655",
     "company_name": "PT Big Fish Hunter",
-    "company_location": "Jakarta Pusat",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "02-Nov-2023 03:29:59",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Analyst",
@@ -1937,7 +2177,7 @@
     "company_name": "PT Daya Adicipta Motora",
     "company_location": "Bandung",
     "job_posted_date": "02-Nov-2023 02:05:15",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "Business-Analyst",
@@ -1947,7 +2187,7 @@
     "company_name": "PARAMOUNT LAND",
     "company_location": "Banten",
     "job_posted_date": "01-Nov-2023 11:13:15",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Business-Analyst",
@@ -1957,7 +2197,7 @@
     "company_name": "PT Crif Lembaga Informasi Keuangan",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "01-Nov-2023 10:04:22",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Business-Analyst",
@@ -1967,7 +2207,7 @@
     "company_name": "PT Nawa Data Solutions",
     "company_location": "Jakarta Raya",
     "job_posted_date": "01-Nov-2023 09:01:10",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Business-Analyst",
@@ -1977,7 +2217,7 @@
     "company_name": "Yayasan Kehati",
     "company_location": "Tangerang",
     "job_posted_date": "01-Nov-2023 08:15:00",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Business-Analyst",
@@ -1987,7 +2227,7 @@
     "company_name": "ARMATASOFT",
     "company_location": "Jakarta Raya",
     "job_posted_date": "01-Nov-2023 02:16:09",
-    "duration": 12
+    "duration": 14
   },
   {
     "keyword": "Business-Analyst",
@@ -1997,7 +2237,7 @@
     "company_name": "PT Bali Towerindo Sentra Tbk",
     "company_location": "Jakarta Raya",
     "job_posted_date": "31-Oct-2023 08:42:06",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Business-Analyst",
@@ -2007,7 +2247,7 @@
     "company_name": "rootcloud",
     "company_location": "Tangerang",
     "job_posted_date": "31-Oct-2023 08:34:38",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Business-Analyst",
@@ -2017,7 +2257,7 @@
     "company_name": "PT Howden Insurance Brokers Indonesia",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "31-Oct-2023 07:43:41",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Business-Analyst",
@@ -2027,7 +2267,7 @@
     "company_name": "Erajaya Group",
     "company_location": "Jakarta Barat",
     "job_posted_date": "31-Oct-2023 05:06:12",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Business-Analyst",
@@ -2037,7 +2277,7 @@
     "company_name": "PT Asuransi Jiwa Sequis Life",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "31-Oct-2023 03:24:34",
-    "duration": 13
+    "duration": 15
   },
   {
     "keyword": "Business-Analyst",
@@ -2045,9 +2285,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/regional-business-analytics-analyst-indonesia-1037301289",
     "company_name": "PT Ecart Webportal Indonesia",
-    "company_location": "Jakarta Barat",
+    "company_location": "Indonesia",
     "job_posted_date": "30-Oct-2023 16:00:00",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2055,9 +2295,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4513795",
     "company_name": "Rolling Glory - Creative Digital Enabler",
-    "company_location": "Tangerang",
+    "company_location": "Bandung",
     "job_posted_date": "30-Oct-2023 11:53:52",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2067,7 +2307,7 @@
     "company_name": "PT. ANUGERAH LELANG INDONESIA",
     "company_location": "Tangerang",
     "job_posted_date": "30-Oct-2023 10:33:31",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2077,7 +2317,7 @@
     "company_name": "PT Phincon",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "30-Oct-2023 03:28:48",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2087,7 +2327,7 @@
     "company_name": "PT Bussan Auto Finance (BAF)",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "30-Oct-2023 03:16:15",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2097,7 +2337,7 @@
     "company_name": "PT Wahana Duta Jaya Rucika",
     "company_location": "Jakarta Raya",
     "job_posted_date": "30-Oct-2023 02:23:12",
-    "duration": 14
+    "duration": 16
   },
   {
     "keyword": "Business-Analyst",
@@ -2107,7 +2347,7 @@
     "company_name": "Daya Group",
     "company_location": "Bandung",
     "job_posted_date": "29-Oct-2023 16:00:00",
-    "duration": 15
+    "duration": 17
   },
   {
     "keyword": "Business-Analyst",
@@ -2117,7 +2357,7 @@
     "company_name": "PT Mandiri Tunas Finance",
     "company_location": "Jakarta Raya",
     "job_posted_date": "27-Oct-2023 07:55:06",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Business-Analyst",
@@ -2127,7 +2367,7 @@
     "company_name": "BPR Hidup Artagraha",
     "company_location": "Jakarta Raya",
     "job_posted_date": "27-Oct-2023 03:13:39",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Business-Analyst",
@@ -2137,37 +2377,37 @@
     "company_name": "PT Bussan Auto Finance (BAF)",
     "company_location": "Jakarta Utara",
     "job_posted_date": "27-Oct-2023 02:21:11",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst - Experience in Banking Industry",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-experience-in-banking-industry-1037276783",
-    "company_name": "PT Astra International Tbk",
-    "company_location": "Jawa Barat",
+    "company_name": "PT Metafora Indonesia Teknologi (IDMETAFORA)",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "26-Oct-2023 16:00:00",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business System Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-system-analyst-4510509",
-    "company_name": "Kurnia Ciptamoda Gemilang",
-    "company_location": "Jakarta Pusat",
+    "company_name": "MODENA INDONESIA",
+    "company_location": "Jakarta Raya",
     "job_posted_date": "26-Oct-2023 06:55:40",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4510250",
-    "company_name": "PT Equine Global",
-    "company_location": "Tangerang",
+    "company_name": "PT Reycom Document Solusi",
+    "company_location": "Jakarta Pusat",
     "job_posted_date": "26-Oct-2023 04:06:01",
-    "duration": 18
+    "duration": 20
   },
   {
     "keyword": "Business-Analyst",
@@ -2177,7 +2417,7 @@
     "company_name": "PT Asian Sigma Teknologi (SIGMATECH)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 16:00:00",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Business-Analyst",
@@ -2187,7 +2427,7 @@
     "company_name": "Nurosoft Consulting (PT. Nuroho Software Consulting)",
     "company_location": "Surabaya",
     "job_posted_date": "25-Oct-2023 08:03:51",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Business-Analyst",
@@ -2197,7 +2437,7 @@
     "company_name": "PT. HTC Global Software Services",
     "company_location": "Jakarta Raya",
     "job_posted_date": "25-Oct-2023 07:30:56",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Business-Analyst",
@@ -2207,7 +2447,7 @@
     "company_name": "PT Adira Dinamika Multi Finance Tbk",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "25-Oct-2023 03:47:19",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "Business-Analyst",
@@ -2217,7 +2457,7 @@
     "company_name": "PT Cakra Jasa Pasific",
     "company_location": "Jawa Timur",
     "job_posted_date": "24-Oct-2023 16:00:00",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
@@ -2227,7 +2467,7 @@
     "company_name": "MVC Resources",
     "company_location": "Tangerang",
     "job_posted_date": "24-Oct-2023 16:00:00",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
@@ -2237,7 +2477,7 @@
     "company_name": "PT Mandiri Utama Finance",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "24-Oct-2023 10:06:47",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
@@ -2247,7 +2487,7 @@
     "company_name": "PT Prawathiya Karsa Pradiptha",
     "company_location": "Jakarta Raya",
     "job_posted_date": "24-Oct-2023 06:53:32",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
@@ -2257,7 +2497,7 @@
     "company_name": "PT Merah Cipta Media",
     "company_location": "Jakarta Raya",
     "job_posted_date": "24-Oct-2023 03:54:57",
-    "duration": 20
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
@@ -2267,27 +2507,27 @@
     "company_name": "Engage Squared PTY Ltd",
     "company_location": "Jakarta Timur",
     "job_posted_date": "24-Oct-2023 01:22:50",
-    "duration": 20
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037250606",
-    "company_name": "CV Karya Jaya Mandiri Sakti (Cabang Bali)",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "23-Oct-2023 16:00:00",
-    "duration": 21
+    "duration": 22
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037250004",
-    "company_name": "PT. TEBAR DIGITAL KREASI",
-    "company_location": "Jawa Tengah",
+    "company_name": "PT KOLTIVA",
+    "company_location": "Denpasar",
     "job_posted_date": "23-Oct-2023 16:00:00",
-    "duration": 21
+    "duration": 23
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037250606",
+    "company_name": "PT Mid Solusi Nusantara",
+    "company_location": "Bali",
+    "job_posted_date": "23-Oct-2023 16:00:00",
+    "duration": 23
   },
   {
     "keyword": "Business-Analyst",
@@ -2297,7 +2537,7 @@
     "company_name": "PT Media Indonusa (Jakarta)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 08:41:42",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Business-Analyst",
@@ -2307,17 +2547,37 @@
     "company_name": "PT Andalan Anak Bangsa (KPSG)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "23-Oct-2023 07:52:28",
-    "duration": 21
+    "duration": 23
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "Business Analyst",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4506766",
+    "company_name": "PT Eluon",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "23-Oct-2023 06:40:34",
+    "duration": 23
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT Business Analyst (IT-BUA)",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-it-bua-4506696",
+    "company_name": "Nobility Placement Services Pte. Ltd.",
+    "company_location": "Surabaya",
+    "job_posted_date": "23-Oct-2023 06:17:50",
+    "duration": 23
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4506324",
-    "company_name": "Sekolah Pelita Harapan",
-    "company_location": "Banten",
+    "company_name": "PT Accenture",
+    "company_location": "Jakarta Barat",
     "job_posted_date": "23-Oct-2023 03:16:28",
-    "duration": 21
+    "duration": 23
   },
   {
     "keyword": "Business-Analyst",
@@ -2327,7 +2587,7 @@
     "company_name": "PT Amber Solusi Internasional",
     "company_location": "Jakarta Raya",
     "job_posted_date": "20-Oct-2023 07:47:43",
-    "duration": 24
+    "duration": 26
   },
   {
     "keyword": "Business-Analyst",
@@ -2337,17 +2597,17 @@
     "company_name": "PT Mount Scopus Indonesia",
     "company_location": "Jakarta Raya",
     "job_posted_date": "20-Oct-2023 07:26:57",
-    "duration": 24
+    "duration": 26
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-1037227180",
-    "company_name": "PT Graha Karya Informasi",
+    "company_name": "PT Akar Inti Teknologi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
@@ -2357,47 +2617,47 @@
     "company_name": "PT Bina Artha Ventura",
     "company_location": "Jawa Timur",
     "job_posted_date": "19-Oct-2023 12:08:05",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business Analyst (Mojokerto)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-mojokerto-4504663",
-    "company_name": "Raya Watch Collection",
+    "company_name": "PT Bina Artha Ventura",
     "company_location": "Mojokerto",
     "job_posted_date": "19-Oct-2023 12:07:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4504520",
-    "company_name": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
+    "company_name": "PT Simian Technologies",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 09:45:31",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4504447",
-    "company_name": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+    "company_name": "PT IndoArtha Perkasa Sukses",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "19-Oct-2023 09:12:21",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst (Experience Banking or Insurance)",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-experience-banking-or-insurance-4504393",
-    "company_name": "PT Gunung Raja Paksi,Tbk",
+    "company_name": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 08:49:33",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
@@ -2407,7 +2667,7 @@
     "company_name": "PT Jasa Kelola Asia",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "19-Oct-2023 07:12:45",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
@@ -2417,27 +2677,27 @@
     "company_name": "Integrasi Megakanal Agensi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 03:54:38",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4503344",
-    "company_name": "Adaro Energy - Power",
+    "company_name": "PT Dipo Star Finance",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "18-Oct-2023 10:10:08",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-4503246",
-    "company_name": "PT. Sejahtera Khatulistiwa Perkasa",
+    "company_name": "PT Sinergi Mitrajaya Abadi",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "18-Oct-2023 09:20:27",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Business-Analyst",
@@ -2447,7 +2707,7 @@
     "company_name": "PT Sirius Surya Sentosa ( Jakarta )",
     "company_location": "Tangerang",
     "job_posted_date": "18-Oct-2023 08:09:36",
-    "duration": 26
+    "duration": 28
   },
   {
     "keyword": "Business-Analyst",
@@ -2457,27 +2717,7 @@
     "company_name": "PT Santosa Utama Lestari",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "18-Oct-2023 03:23:57",
-    "duration": 26
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "IT Business Analyst - Banking exp",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-banking-exp-1037212819",
-    "company_name": "PT Asian Sigma Teknologi (SIGMATECH)",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "17-Oct-2023 16:00:00",
-    "duration": 27
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Development Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-development-analyst-1037212939",
-    "company_name": "PT Starlink Teknologi Integrasi",
-    "company_location": "Jakarta Utara",
-    "job_posted_date": "17-Oct-2023 16:00:00",
-    "duration": 27
+    "duration": 28
   },
   {
     "keyword": "Business-Analyst",
@@ -2487,37 +2727,47 @@
     "company_name": "PT Asian Sigma Teknologi (SIGMATECH)",
     "company_location": "Jakarta Raya",
     "job_posted_date": "17-Oct-2023 16:00:00",
-    "duration": 27
+    "duration": 29
+  },
+  {
+    "keyword": "Business-Analyst",
+    "job_role": "IT Business Analyst - Banking exp",
+    "is_JobRole_contains_all_Keyword": "Yes",
+    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-banking-exp-1037212819",
+    "company_name": "PT Asian Sigma Teknologi (SIGMATECH)",
+    "company_location": "Jakarta Raya",
+    "job_posted_date": "17-Oct-2023 16:00:00",
+    "duration": 29
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst Specialist",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-specialist-4501721",
-    "company_name": "PT Supra Boga Lestari Tbk",
+    "company_name": "PT Asuransi Jiwa BCA",
     "company_location": "Jakarta Pusat",
     "job_posted_date": "17-Oct-2023 07:53:03",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "IT Business Analyst, Lead",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-lead-4501616",
-    "company_name": "ASIA RESEARCH INSTITUTE",
+    "company_name": "PT Harsana Eklinika Reforma",
     "company_location": "Jakarta Raya",
     "job_posted_date": "17-Oct-2023 07:08:36",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Business-Analyst",
     "job_role": "Junior Business Intelligence Analyst",
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/junior-business-intelligence-analyst-4501583",
-    "company_name": "MAKA Motors",
+    "company_name": "ASIA RESEARCH INSTITUTE",
     "company_location": "Banjarnegara",
     "job_posted_date": "17-Oct-2023 07:03:40",
-    "duration": 27
+    "duration": 29
   },
   {
     "keyword": "Business-Analyst",
@@ -2527,17 +2777,7 @@
     "company_name": "PT Bumi Amartha Teknologi Mandiri",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "17-Oct-2023 02:27:03",
-    "duration": 27
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-1037204665",
-    "company_name": "Pt kapuas melawi raya",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "16-Oct-2023 16:00:00",
-    "duration": 28
+    "duration": 29
   },
   {
     "keyword": "Business-Analyst",
@@ -2545,29 +2785,9 @@
     "is_JobRole_contains_all_Keyword": "Yes",
     "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-4500711",
     "company_name": "PT. Metrodata Electronics, Tbk",
-    "company_location": "Jakarta Raya",
+    "company_location": "Jawa Tengah",
     "job_posted_date": "16-Oct-2023 12:02:10",
-    "duration": 28
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst Staff",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-staff-4500548",
-    "company_name": "PT. Hertz Flavors Makmur Indonesia",
-    "company_location": "Jakarta Barat",
-    "job_posted_date": "16-Oct-2023 09:48:32",
-    "duration": 28
-  },
-  {
-    "keyword": "Business-Analyst",
-    "job_role": "Business Analyst/Senior Analyst (Operations Development)",
-    "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/business-analyst-senior-analyst-operations-development-4500451",
-    "company_name": "PT Pulau Sambu",
-    "company_location": "Mojokerto",
-    "job_posted_date": "16-Oct-2023 09:13:44",
-    "duration": 28
+    "duration": 30
   },
   {
     "keyword": "Business-Analyst",
@@ -2577,7 +2797,7 @@
     "company_name": "PT Elnusa Tbk",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "16-Oct-2023 03:48:55",
-    "duration": 28
+    "duration": 30
   },
   {
     "keyword": "Business-Analyst",
@@ -2587,17 +2807,17 @@
     "company_name": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "16-Oct-2023 03:23:32",
-    "duration": 28
+    "duration": 30
   },
   {
-    "keyword": "Business-Analyst",
-    "job_role": "IT Business Analyst \u2013 Treasury Banking/Financial Services",
+    "keyword": "Bisnis-Analis",
+    "job_role": "Spesialis Bisnis Analis",
     "is_JobRole_contains_all_Keyword": "Yes",
-    "url_application": "https://www.jobstreet.co.id/en/job/it-business-analyst-treasury-banking-financial-services-4499278",
-    "company_name": "PT OBS SOLUSI TEKNOLOGI INDONESIA",
-    "company_location": "Jakarta Raya",
-    "job_posted_date": "15-Oct-2023 07:45:47",
-    "duration": 29
+    "url_application": "https://www.jobstreet.co.id/en/job/spesialis-bisnis-analis-4528742",
+    "company_name": "PT BCA Multi Finance",
+    "company_location": "Jakarta Utara",
+    "job_posted_date": "14-Nov-2023 09:29:45",
+    "duration": 1
   },
   {
     "keyword": "Bisnis-Analis",
@@ -2607,7 +2827,7 @@
     "company_name": "CV. JASA MANDIRI",
     "company_location": "Jawa Timur",
     "job_posted_date": "25-Oct-2023 16:00:00",
-    "duration": 19
+    "duration": 21
   },
   {
     "keyword": "BI Analyst",
@@ -2617,7 +2837,7 @@
     "company_name": "Coda Payments",
     "company_location": "Jakarta Raya",
     "job_posted_date": "02-Nov-2023 16:00:00",
-    "duration": 11
+    "duration": 13
   },
   {
     "keyword": "BI-Developer",
@@ -2627,7 +2847,7 @@
     "company_name": "PT Arya Noble",
     "company_location": "Jakarta Selatan",
     "job_posted_date": "27-Oct-2023 06:09:00",
-    "duration": 17
+    "duration": 19
   },
   {
     "keyword": "BI-Developer",
@@ -2637,7 +2857,7 @@
     "company_name": "PT Adinata Mitra Solusi",
     "company_location": "Jakarta Raya",
     "job_posted_date": "19-Oct-2023 16:00:00",
-    "duration": 25
+    "duration": 27
   },
   {
     "keyword": "BI-Developer",
@@ -2647,6 +2867,6 @@
     "company_name": "PT Metrodata Electronics Tbk",
     "company_location": "Jakarta Barat",
     "job_posted_date": "18-Oct-2023 16:00:00",
-    "duration": 26
+    "duration": 28
   }
 ]
