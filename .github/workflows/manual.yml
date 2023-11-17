@@ -1,64 +1,30 @@
-name: Run Carikerja.py
+name: Run carikerja.py script and generate JSON files
 
 on:
-  workflow_dispatch:
-    inputs:
-      reason:
-        type: string
-        description: The reason for running the workflow.
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  build:
+  run-carikerja-py:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Setup Python
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.x
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
-          pip install requests
-          pip install beautifulsoup4
+          python -m pip install -r requirements.txt
 
-      - name: Run Cari Kerja
+      - name: Run carikerja.py script and generate JSON files
         run: |
           python carikerja.py
-          # Replace with the actual name of your Python script
-
-      - name: Save extracted data
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your.email@example.com"
-          git add extracted_data.json
-          if git diff-index --quiet HEAD --; then
-            echo "No changes in extracted data"
-          else
-            git commit -m "Update extracted data" && git push
-          fi
-
-      - name: Save transformed data
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your.email@example.com"
-          git add transformed_data.json
-          if git diff-index --quiet HEAD --; then
-            echo "No changes in transformed data"
-          else
-            git commit -m "Update transformed data" && git push
-          fi
-
-      - name: Save filtered data
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your.email@example.com"
-          git add filtered_data.json
-          if git diff-index --quiet HEAD --; then
-            echo "No changes in filtered data"
-          else
-            git commit -m "Update filtered data" && git push
-          fi
+          # Move generated JSON files to artifacts
+          mv extracted.json $HOME/workflow/artifacts
+          mv transformed.json $HOME/workflow/artifacts
+          mv loaded.json $HOME/workflow/artifacts
