@@ -2,59 +2,57 @@ name: Run Carikerja.py
 
 on:
   schedule:
-    - cron: "1 17 * * *"  # Schedule this workflow to run at 5:01 PM UTC every day
+    - cron: "1 17 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.x  # Replace with the appropriate Python version
-
-    - name: Install dependencies
-      run: |
-        pip install requests
-        pip install beautifulsoup4
-
-    - name: Run Cari Kerja
-      run: |
-        python carikerja.py  # Replace with the actual name of your Python script
-
-    - name: Save extracted data
-      run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your.email@example.com"
-        git add extracted_data.json
-        if git diff-index --quiet HEAD --; then
-          echo "No changes in extracted data"
-        else
-          git commit -m "Update extracted data" && git push
-        fi
-
-    - name: Save transformed data
-      run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your.email@example.com"
-        git add transformed_data.json
-        if git diff-index --quiet HEAD --; then
-          echo "No changes in transformed data"
-        else
-          git commit -m "Update transformed data" && git push
-        fi
-
-    - name: Save filtered data
-      run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your.email@example.com"
-        git add filtered_data.json
-        if git diff-index --quiet HEAD --; then
-          echo "No changes in filtered data"
-        else
-          git commit -m "Update filtered data" && git push
-        fi
+      - name: Pull latest changes
+        run: |
+          git fetch origin
+          git pull
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+      - name: Run Cari Kerja
+        run: |
+          python carikerja.py
+      - name: Save extracted data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add extracted_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in extracted data"
+          else
+            git commit -m "Update extracted data" && git push
+          fi
+      - name: Save transformed data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add transformed_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in transformed data"
+          else
+            git commit -m "Update transformed data" && git push
+          fi
+      - name: Save filtered data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add filtered_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in filtered data"
+          else
+            git commit -m "Update filtered data" && git push
+          fi
