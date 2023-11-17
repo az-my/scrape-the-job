@@ -26,6 +26,6 @@ jobs:
         run: |
           python carikerja.py
           # Move generated JSON files to artifacts
-          mv extracted.json $HOME/workflow/artifacts
-          mv transformed.json $HOME/workflow/artifacts
-          mv loaded.json $HOME/workflow/artifacts
+          mv extracted_data.json $HOME/workflow/artifacts
+          mv transformed_data.json $HOME/workflow/artifacts
+          mv filtered_data.json $HOME/workflow/artifacts
