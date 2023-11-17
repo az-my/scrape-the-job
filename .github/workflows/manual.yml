@@ -1,32 +1,64 @@
-# This is a basic workflow that is manually triggered
+name: Run Carikerja.py
 
-name: Manual workflow
-
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
   workflow_dispatch:
-    # Inputs the workflow accepts.
     inputs:
-      name:
-        # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
-        # Default value if no value is explicitly provided
-        default: 'World'
-        # Input has to be provided for the workflow to run
-        required: true
-        # The data type of the input
+      reason:
         type: string
+        description: The reason for running the workflow.
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
+  build:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
-    - name: Send greeting
-      run: echo "Hello ${{ inputs.name }}"
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+
+      - name: Run Cari Kerja
+        run: |
+          python carikerja.py
+          # Replace with the actual name of your Python script
+
+      - name: Save extracted data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add extracted_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in extracted data"
+          else
+            git commit -m "Update extracted data" && git push
+          fi
+
+      - name: Save transformed data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add transformed_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in transformed data"
+          else
+            git commit -m "Update transformed data" && git push
+          fi
+
+      - name: Save filtered data
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add filtered_data.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in filtered data"
+          else
+            git commit -m "Update filtered data" && git push
+          fi
