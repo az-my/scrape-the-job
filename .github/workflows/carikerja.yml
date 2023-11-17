@@ -19,7 +19,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-         python3 -m pip install requests beautifulsoup4 json urllib3 re datetime
+         python3 -m pip install requests beautifulsoup4 urllib3
+
 
       - name: Run carikerja.py script and generate JSON files
         run: |
