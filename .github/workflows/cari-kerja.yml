@@ -1,0 +1,24 @@
+name: Run carikerja.py
+
+on:
+  workflow_dispatch:  # Manually trigger the workflow
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Specify the Python version you need
+
+      - name: Run Python script
+        run: python carikerja.py
+        
+      - name: Show success message
+        if: ${{ success() }}
+        run: echo "Script executed successfully!"
