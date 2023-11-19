@@ -23,7 +23,15 @@ jobs:
 
       - name: Run Python script
         run: python carikerja.py
-        
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add extracted_data.json transformed_data.json filtered_data.json
+          git commit -m "Update generated JSON files"
+          git push origin main  # Change 'main' to your branch name if different
+     
       - name: Show success message
         if: ${{ success() }}
         run: echo "Script executed successfully!"
